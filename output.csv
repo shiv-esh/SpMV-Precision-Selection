@@ -1,0 +1,11 @@
+matrix,target
+arc130,row-wise
+add32,row-wise
+b_dyn,row-wise
+af23560,row-wise
+685_bus,row-wise
+662_bus,row-wise
+b1_ss,row-wise
+494_bus,row-wise
+add20,row-wise
+1138_bus,entry-wise

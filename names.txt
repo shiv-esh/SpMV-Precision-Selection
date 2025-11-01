@@ -1,0 +1,1070 @@
+Id	Name	Group	Rows	Cols	Nonzeros 	Kind	Date	Download File
+794	lp_nug06	Qaplib	372	486	2,232	Linear Programming Problem	1995	
+251	steam1	HB	240	240	2,248	Computational Fluid Dynamics Problem	1983	
+2890	YaleA_10NN	ML_Graph	165	165	2,268	Undirected Weighted Graph	2020	
+1746	p0291	Meszaros	252	543	2,283	Linear Programming Problem	2004	
+315	mhdb416	Bai	416	416	2,312	Electromagnetics Problem	1994	
+1864	Chebyshev1	Muite	261	261	2,319	Structural Problem	2007	
+2421	netz4504_dual	AG-Monien	615	615	2,342	2D/3D Problem	1998	
+2392	celegansneural	Newman	297	297	2,345	Directed Weighted Graph	1998	
+2030	ch7-8-b1	JGD_Homology	1,176	56	2,352	Combinatorial Problem	2008	
+675	lp_scsd1	LPnetlib	77	760	2,388	Linear Programming Problem	1981	
+2015	ch5-5-b3	JGD_Homology	600	600	2,400	Combinatorial Problem	2008	
+926	poisson2D	FEMLAB	367	367	2,417	Computational Fluid Dynamics Problem	2003	
+27	bcsstk05	HB	153	153	2,423	Structural Problem	1982	
+150	fs_680_2	HB	680	680	2,424	Subsequent 2D/3D Problem	1983	
+2866	dermatology_5NN	ML_Graph	366	366	2,440	Undirected Weighted Graph	2020	
+207	lund_b	HB	147	147	2,441	Structural Problem	1974	
+635	lp_israel	LPnetlib	174	316	2,443	Linear Programming Problem		
+629	lp_gfrd_pnc	LPnetlib	616	1,160	2,445	Linear Programming Problem		
+122	dwt_310	HB	310	310	2,448	Structural Problem	1980	
+206	lund_a	HB	147	147	2,449	Structural Problem	1974	
+254	str_0	HB	363	363	2,454	Optimization Problem Sequence	1978	
+151	fs_680_3	HB	680	680	2,471	Subsequent 2D/3D Problem	1983	
+3	662_bus	HB	662	662	2,474	Power Network Problem	1985	
+1616	dwa512	Bai	512	512	2,480	Electromagnetics Problem	1993	
+310	dw256A	Bai	512	512	2,480	Electromagnetics Problem	1993	
+601	lp_bandm	LPnetlib	305	472	2,494	Linear Programming Problem		
+1617	dwb512	Bai	512	512	2,500	Electromagnetics Problem	1993	
+311	dw256B	Bai	512	512	2,500	Electromagnetics Problem	1993	
+121	dwt_307	HB	307	307	2,523	Structural Problem	1980	
+1978	GL6_D_6	JGD_GL6	469	201	2,526	Combinatorial Problem	2008	
+621	lp_etamacro	LPnetlib	400	816	2,537	Linear Programming Problem		
+704	lpi_bgetam	LPnetlib	400	816	2,537	Linear Programming Problem	1993	
+100	can_292	HB	292	292	2,540	Structural Problem	1981	
+2358	M20PI_n1	Rommes	1,028	1,028	2,547	Eigenvalue/Model Reduction Problem	2010	
+2366	S20PI_n1	Rommes	1,028	1,028	2,547	Eigenvalue/Model Reduction Problem	2010	
+1635	rdb450l	Bai	450	450	2,580	Computational Fluid Dynamics Problem	1994	
+1634	rdb450	Bai	450	450	2,580	Computational Fluid Dynamics Problem	1994	
+728	lpi_reactor	LPnetlib	318	808	2,591	Linear Programming Problem	1993	
+1677	gams60am	Meszaros	714	1,071	2,607	Linear Programming Problem	2004	
+634	lp_grow7	LPnetlib	140	301	2,612	Linear Programming Problem	1983	
+1465	Erdos971	Pajek	472	472	2,628	Undirected Graph	2006	
+1172	Harvard500	MathWorks	500	500	2,636	Directed Graph	2002	
+212	mcca	HB	180	180	2,659	2D/3D Problem	1985	
+2749	tumorAntiAngiogenesis_2	VDOL	305	305	2,699	Optimal Control Problem	2015	
+203	lshp_406	HB	406	406	2,716	Thermal Problem	1978	
+670	lp_scfxm1	LPnetlib	330	600	2,732	Linear Programming Problem	1981	
+623	lp_finnis	LPnetlib	497	1,064	2,760	Linear Programming Problem	1989	
+1467	Erdos981	Pajek	485	485	2,762	Undirected Graph	2006	
+620	lp_e226	LPnetlib	223	472	2,768	Linear Programming Problem		
+929	problem1	FEMLAB	415	415	2,779	2D/3D Problem	2003	
+193	lnsp_511	HB	511	511	2,796	Computational Fluid Dynamics Problem	1982	
+190	lns_511	HB	511	511	2,796	Computational Fluid Dynamics Problem	1982	
+269	west0655	HB	655	655	2,808	Chemical Process Simulation Problem	1983	
+1732	nemsafm	Meszaros	334	2,348	2,826	Linear Programming Problem	2004	
+1469	Erdos991	Pajek	492	492	2,834	Undirected Graph	2006	
+307	ck400	Bai	400	400	2,860	2D/3D Problem	1986	
+598	lp_agg	LPnetlib	488	615	2,862	Linear Programming Problem	1988	
+2206	Trefethen_200b	JGD_Trefethen	199	199	2,873	Combinatorial Problem	2008	
+2362	M20PI_n	Rommes	1,182	1,182	2,881	Eigenvalue/Model Reduction Problem	2010	
+2370	S20PI_n	Rommes	1,182	1,182	2,881	Eigenvalue/Model Reduction Problem	2010	
+2207	Trefethen_200	JGD_Trefethen	200	200	2,890	Combinatorial Problem	2008	
+2718	orbitRaising_1	VDOL	442	442	2,906	Optimal Control Problem	2015	
+275	wm1	HB	207	277	2,909	Economic Problem	1982	
+295	bfwb398	Bai	398	398	2,910	Electromagnetics Problem	1994	
+98	can_256	HB	256	256	2,916	Structural Problem	1981	
+725	lpi_pang	LPnetlib	361	741	2,933	Linear Programming Problem	1993	
+1627	qh768	Bai	768	768	2,934	Power Network Problem	1994	
+276	wm2	HB	207	260	2,942	Economic Problem	1982	
+277	wm3	HB	207	260	2,948	Economic Problem	1982	
+2193	D_11	JGD_SL6	169	461	2,952	Combinatorial Problem	2008	
+124	dwt_361	HB	361	361	2,953	Structural Problem	1980	
+2066	mk12-b1	JGD_Homology	1,485	66	2,970	Combinatorial Problem	2008	
+1923	bibd_12_4	JGD_BIBD	66	495	2,970	Combinatorial Problem	2008	
+2869	Glass_10NN	ML_Graph	214	214	2,986	Undirected Weighted Graph	2020	
+2035	ch7-9-b1	JGD_Homology	1,512	63	3,024	Combinatorial Problem	2008	
+1722	model1	Meszaros	362	798	3,028	Linear Programming Problem	2004	
+2084	n2c6-b9	JGD_Homology	306	1,470	3,060	Combinatorial Problem	2008	
+255	str_200	HB	363	363	3,068	Subsequent Optimization Problem	1978	
+99	can_268	HB	268	268	3,082	Structural Problem	1981	
+908	cage7	vanHeukelum	340	340	3,084	Directed Weighted Graph	2003	
+73	bcsstm23	HB	3,134	3,134	3,134	Structural Problem	1984	
+42	bcsstk20	HB	485	485	3,135	Structural Problem	1984	
+2040	ch8-8-b1	JGD_Homology	1,568	64	3,136	Combinatorial Problem	2008	
+824	utm300	TOKAMAK	300	300	3,155	Electromagnetics Problem	1996	
+126	dwt_492	HB	492	492	3,156	Structural Problem	1980	
+256	str_400	HB	363	363	3,157	Subsequent Optimization Problem	1978	
+644	lp_modszk1	LPnetlib	687	1,620	3,168	Linear Programming Problem	1994	
+2560	cz308	CPM	308	308	3,182	2D/3D Problem	2012	
+471	G11	Gset	800	800	3,200	Undirected Weighted Random Graph	1996	
+473	G13	Gset	800	800	3,200	Undirected Weighted Random Graph	1996	
+472	G12	Gset	800	800	3,200	Undirected Weighted Random Graph	1996	
+1824	small	Meszaros	677	1,400	3,207	Linear Programming Problem Sequence	2004	
+123	dwt_346	HB	346	346	3,226	Structural Problem	1980	
+692	lp_standata	LPnetlib	359	1,274	3,230	Linear Programming Problem		
+1939	bibd_81_2	JGD_BIBD	3,240	3,240	3,240	Combinatorial Problem	2008	
+4	685_bus	HB	685	685	3,249	Power Network Problem	1985	
+222	nos6	HB	675	675	3,255	2D/3D Problem	1982	
+82	bp_0	HB	822	822	3,276	Optimization Problem Sequence	1978	
+257	str_600	HB	363	363	3,279	Subsequent Optimization Problem	1978	
+674	lp_scrs8	LPnetlib	490	1,275	3,288	Linear Programming Problem	1981
+693	lp_standgub	LPnetlib	361	1,383	3,338	Linear Programming Problem	1989	
+328	qh882	Bai	882	882	3,354	Power Network Problem	1994	
+1618	dwg961a	Bai	961	961	3,405	Electromagnetics Problem	1996	
+602	lp_beaconfd	LPnetlib	173	295	3,408	Linear Programming Problem		
+1820	nsic	Meszaros	465	897	3,449	Linear Programming Problem Sequence	2004	
+234	pores_3	HB	532	532	3,474	Computational Fluid Dynamics Problem	1980	
+2691	hangGlider_1	VDOL	360	360	3,477	Optimal Control Problem	2015	
+114	dwt_193	HB	193	193	3,493	Structural Problem	1980	
+128	dwt_512	HB	512	512	3,502	Structural Problem	1980	
+270	west0989	HB	989	989	3,518	Chemical Process Simulation Problem	1983	
+1637	tols1090	Bai	1,090	1,090	3,546	Computational Fluid Dynamics Problem	1991	
+683	lp_shell	LPnetlib	536	1,777	3,558	Linear Programming Problem	1978	
+74	bcsstm24	HB	3,562	3,562	3,562	Structural Problem	1984	
+125	dwt_419	HB	419	419	3,563	Structural Problem	1980	
+71	bcsstm21	HB	3,600	3,600	3,600	Structural Problem	1984	
+2429	L	AG-Monien	956	956	3,640	2D/3D Problem	1998	
+26	bcsstk04	HB	132	132	3,648	Structural Problem	1982	
+292	bfwa398	Bai	398	398	3,678	Electromagnetics Problem	1994	
+1346	rajat19	Rajat	1,157	1,157	3,699	Circuit Simulation Problem	2006	
+2431	stufe	AG-Monien	1,036	1,036	3,736	2D/3D Problem	1998	
+242	sherman1	HB	1,000	1,000	3,750	Computational Fluid Dynamics Problem	1984	
+240	saylr3	HB	1,000	1,000	3,750	Computational Fluid Dynamics Problem	1984	
+2074	mk9-b3	JGD_Homology	945	1,260	3,780	Combinatorial Problem	2008	
+2073	mk9-b2	JGD_Homology	1,260	378	3,780	Combinatorial Problem	2008	
+245	sherman4	HB	1,104	1,104	3,786	Computational Fluid Dynamics Problem	1984	
+87	bp_200	HB	822	822	3,802	Subsequent Optimization Problem	1978	
+1894	QRpivot	MathWorks	660	749	3,808	Counter Example Problem	2008	
+101	can_445	HB	445	445	3,809	Structural Problem	1981	
+1733	nemscem	Meszaros	651	1,712	3,840	Linear Programming Problem	2004	
+694	lp_standmps	LPnetlib	467	1,274	3,878	Linear Programming Problem	1989	
+308	ck656	Bai	656	656	3,884	2D/3D Problem	1986	
+204	lshp_577	HB	577	577	3,889	Thermal Problem	1978	
+450	b2_ss	Grund	1,089	1,089	3,895	Chemical Process Simulation Problem	1997	
+2750	tumorAntiAngiogenesis_3	VDOL	410	410	3,952	Optimal Control Problem	2015	
+280	young3c	HB	841	841	3,988	Acoustics Problem	1984	
+2125	n4c6-b2	JGD_Homology	1,330	210	3,990	Combinatorial Problem	2008	
+2049	cis-n4c6-b2	JGD_Homology	1,330	210	3,990	Combinatorial Problem	2008	
+319	olm1000	Bai	1,000	1,000	3,996	Computational Fluid Dynamics Problem	1994	
+338	tub1000	Bai	1,000	1,000	3,996	Computational Fluid Dynamics Problem	1994	
+691	lp_stair	LPnetlib	356	614	4,003	Linear Programming Problem		
+88	bp_400	HB	822	822	4,028	Subsequent Optimization Problem	1978	
+216	nnc666	HB	666	666	4,032	2D/3D Problem	1982	
+1	1138_bus	HB	1,138	1,138	4,054	Power Network Problem	1985	
+2407	celegans_metabolic	Arenas	453	453	4,065	Undirected Multigraph	2005	
+281	young4c	HB	841	841	4,089	Acoustics Problem	1984	
+279	young2c	HB	841	841	4,089	Duplicate Acoustics Problem	1984	
+278	young1c	HB	841	841	4,089	Acoustics Problem	1984	
+218	nos2	HB	957	957	4,137	Structural Problem	1982	
+451	b_dyn	Grund	1,089	1,089	4,144	Chemical Process Simulation Problem	1997	
+89	bp_600	HB	822	822	4,172	Subsequent Optimization Problem	1978	
+167	hor_131	HB	434	434	4,182	Directed Weighted Graph	1983	
+617	lp_degen2	LPnetlib	444	757	4,201	Linear Programming Problem	1989	
+795	lp_nug07	Qaplib	602	931	4,214	Linear Programming Problem	1995	
+1946	TF12	JGD_Forest	488	552	4,231	Combinatorial Problem	2008	
+1529	USAir97	Pajek	332	332	4,252	Undirected Weighted Graph	1997	
+1207	t2dal_e	Oberwolfach	4,257	4,257	4,257	Duplicate Model Reduction Problem	2004	
+148	fs_541_4	HB	541	541	4,273	Subsequent 2D/3D Problem	1978	
+146	fs_541_2	HB	541	541	4,282	Subsequent 2D/3D Problem	1978	
+145	fs_541_1	HB	541	541	4,282	2D/3D Problem Sequence	1978	
+147	fs_541_3	HB	541	541	4,282	Subsequent 2D/3D Problem	1978	
+676	lp_scsd6	LPnetlib	147	1,350	4,316	Linear Programming Problem	1981	
+406	ex1	FIDAP	216	216	4,317	Computational Fluid Dynamics Problem	1994	
+2021	ch6-6-b5	JGD_Homology	720	4,320	4,320	Combinatorial Problem	2008	
+2552	N_biocarta	Schulthess	1,922	1,996	4,335	Biochemical Network	2012	
+1981	GL6_D_9	JGD_GL6	340	545	4,349	Combinatorial Problem	2008	
+24	bcsstk02	HB	66	66	4,356	Structural Problem	1982	
+1885	Maragal_2	NYPA	555	350	4,357	Least Squares Problem	2008	
+325	pde900	Bai	900	900	4,380	2D/3D Problem	1982	
+685	lp_ship04s	LPnetlib	402	1,506	4,400	Linear Programming Problem		
+1511	NotreDame_yeast	Barabasi	2,114	2,114	4,480	Undirected Graph	2001	
+1757	qiulp	Meszaros	1,192	1,900	4,492	Linear Programming Problem	2004	
+90	bp_800	HB	822	822	4,534	Subsequent Optimization Problem	1978	
+2867	Ecoli_10NN	ML_Graph	336	336	4,560	Undirected Weighted Graph	2020	
+699	lp_tuff	LPnetlib	333	628	4,561	Linear Programming Problem	1989	
+1968	IG5-9	JGD_G5	342	540	4,570	Combinatorial Problem	2008	
+2751	tumorAntiAngiogenesis_4	VDOL	455	455	4,593	Optimal Control Problem	2015	
+2754	tumorAntiAngiogenesis_7	VDOL	475	475	4,597	Optimal Control Problem	2015	
+223	nos7	HB	729	729	4,617	2D/3D Problem	1982	
+1922	bibd_11_5	JGD_BIBD	55	462	4,620	Combinatorial Problem	2008	
+1636	rdb800l	Bai	800	800	4,640	Computational Fluid Dynamics Problem	1994	
+1717	l9	Meszaros	244	1,483	4,659	Linear Programming Problem	2004	
+83	bp_1000	HB	822	822	4,661	Subsequent Optimization Problem	1978	
+2208	Trefethen_300	JGD_Trefethen	300	300	4,678	Combinatorial Problem	2008	
+305	cdde6	Bai	961	961	4,681	Subsequent Computational Fluid Dynamics Problem	1992	
+304	cdde5	Bai	961	961	4,681	Subsequent Computational Fluid Dynamics Problem	1992	
+303	cdde4	Bai	961	961	4,681	Subsequent Computational Fluid Dynamics Problem	1992	
+302	cdde3	Bai	961	961	4,681	Subsequent Computational Fluid Dynamics Problem	1992	
+301	cdde2	Bai	961	961	4,681	Subsequent Computational Fluid Dynamics Problem	1992	
+300	cdde1	Bai	961	961	4,681	Computational Fluid Dynamics Problem Sequence	1992	
+2752	tumorAntiAngiogenesis_5	VDOL	460	460	4,690	Optimal Control Problem	2015	
+169	illc1033	HB	1,033	320	4,719	Least Squares Problem	1979	
+2764	mycielskian8	Mycielski	191	191	4,720	Undirected Graph	2018	
+2060	mk10-b4	JGD_Homology	945	4,725	4,725	Combinatorial Problem	2008	
+84	bp_1200	HB	822	822	4,726	Subsequent Optimization Problem	1978	
+260	well1033	HB	1,033	320	4,732	Least Squares Problem	1979	
+599	lp_agg2	LPnetlib	516	758	4,740	Linear Programming Problem	1988	
+600	lp_agg3	LPnetlib	516	758	4,756	Linear Programming Problem	1988	
+2755	tumorAntiAngiogenesis_8	VDOL	490	490	4,776	Optimal Control Problem	2015	
+85	bp_1400	HB	822	822	4,790	Subsequent Optimization Problem	1978	
+2753	tumorAntiAngiogenesis_6	VDOL	465	465	4,795	Optimal Control Problem	2015	
+693	lp_standgub	LPnetlib	361	1,383	3,338	Linear Programming Problem	1989	
+328	qh882	Bai	882	882	3,354	Power Network Problem	1994	
+1618	dwg961a	Bai	961	961	3,405	Electromagnetics Problem	1996	
+602	lp_beaconfd	LPnetlib	173	295	3,408	Linear Programming Problem		
+1820	nsic	Meszaros	465	897	3,449	Linear Programming Problem Sequence	2004	
+234	pores_3	HB	532	532	3,474	Computational Fluid Dynamics Problem	1980	
+2691	hangGlider_1	VDOL	360	360	3,477	Optimal Control Problem	2015	
+114	dwt_193	HB	193	193	3,493	Structural Problem	1980	
+128	dwt_512	HB	512	512	3,502	Structural Problem	1980	
+270	west0989	HB	989	989	3,518	Chemical Process Simulation Problem	1983	
+1637	tols1090	Bai	1,090	1,090	3,546	Computational Fluid Dynamics Problem	1991	
+683	lp_shell	LPnetlib	536	1,777	3,558	Linear Programming Problem	1978	
+74	bcsstm24	HB	3,562	3,562	3,562	Structural Problem	1984	
+125	dwt_419	HB	419	419	3,563	Structural Problem	1980	
+71	bcsstm21	HB	3,600	3,600	3,600	Structural Problem	1984	
+2429	L	AG-Monien	956	956	3,640	2D/3D Problem	1998	
+26	bcsstk04	HB	132	132	3,648	Structural Problem	1982	
+292	bfwa398	Bai	398	398	3,678	Electromagnetics Problem	1994	
+1346	rajat19	Rajat	1,157	1,157	3,699	Circuit Simulation Problem	2006	
+2431	stufe	AG-Monien	1,036	1,036	3,736	2D/3D Problem	1998	
+242	sherman1	HB	1,000	1,000	3,750	Computational Fluid Dynamics Problem	1984	
+240	saylr3	HB	1,000	1,000	3,750	Computational Fluid Dynamics Problem	1984	
+2074	mk9-b3	JGD_Homology	945	1,260	3,780	Combinatorial Problem	2008	
+2073	mk9-b2	JGD_Homology	1,260	378	3,780	Combinatorial Problem	2008	
+245	sherman4	HB	1,104	1,104	3,786	Computational Fluid Dynamics Problem	1984	
+87	bp_200	HB	822	822	3,802	Subsequent Optimization Problem	1978	
+1894	QRpivot	MathWorks	660	749	3,808	Counter Example Problem	2008	
+101	can_445	HB	445	445	3,809	Structural Problem	1981	
+1733	nemscem	Meszaros	651	1,712	3,840	Linear Programming Problem	2004	
+694	lp_standmps	LPnetlib	467	1,274	3,878	Linear Programming Problem	1989	
+308	ck656	Bai	656	656	3,884	2D/3D Problem	1986	
+204	lshp_577	HB	577	577	3,889	Thermal Problem	1978	
+450	b2_ss	Grund	1,089	1,089	3,895	Chemical Process Simulation Problem	1997	
+2750	tumorAntiAngiogenesis_3	VDOL	410	410	3,952	Optimal Control Problem	2015	
+280	young3c	HB	841	841	3,988	Acoustics Problem	1984	
+2125	n4c6-b2	JGD_Homology	1,330	210	3,990	Combinatorial Problem	2008	
+2049	cis-n4c6-b2	JGD_Homology	1,330	210	3,990	Combinatorial Problem	2008	
+319	olm1000	Bai	1,000	1,000	3,996	Computational Fluid Dynamics Problem	1994	
+338	tub1000	Bai	1,000	1,000	3,996	Computational Fluid Dynamics Problem	1994	
+691	lp_stair	LPnetlib	356	614	4,003	Linear Programming Problem		
+88	bp_400	HB	822	822	4,028	Subsequent Optimization Problem	1978	
+216	nnc666	HB	666	666	4,032	2D/3D Problem	1982	
+1	1138_bus	HB	1,138	1,138	4,054	Power Network Problem	1985	
+2407	celegans_metabolic	Arenas	453	453	4,065	Undirected Multigraph	2005	
+281	young4c	HB	841	841	4,089	Acoustics Problem	1984	
+279	young2c	HB	841	841	4,089	Duplicate Acoustics Problem	1984	
+278	young1c	HB	841	841	4,089	Acoustics Problem	1984	
+218	nos2	HB	957	957	4,137	Structural Problem	1982	
+451	b_dyn	Grund	1,089	1,089	4,144	Chemical Process Simulation Problem	1997	
+89	bp_600	HB	822	822	4,172	Subsequent Optimization Problem	1978	
+167	hor_131	HB	434	434	4,182	Directed Weighted Graph	1983	
+617	lp_degen2	LPnetlib	444	757	4,201	Linear Programming Problem	1989	
+795	lp_nug07	Qaplib	602	931	4,214	Linear Programming Problem	1995	
+1946	TF12	JGD_Forest	488	552	4,231	Combinatorial Problem	2008	
+1529	USAir97	Pajek	332	332	4,252	Undirected Weighted Graph	1997	
+1207	t2dal_e	Oberwolfach	4,257	4,257	4,257	Duplicate Model Reduction Problem	2004	
+148	fs_541_4	HB	541	541	4,273	Subsequent 2D/3D Problem	1978	
+146	fs_541_2	HB	541	541	4,282	Subsequent 2D/3D Problem	1978	
+145	fs_541_1	HB	541	541	4,282	2D/3D Problem Sequence	1978	
+147	fs_541_3	HB	541	541	4,282	Subsequent 2D/3D Problem	1978	
+676	lp_scsd6	LPnetlib	147	1,350	4,316	Linear Programming Problem	1981	
+406	ex1	FIDAP	216	216	4,317	Computational Fluid Dynamics Problem	1994	
+2021	ch6-6-b5	JGD_Homology	720	4,320	4,320	Combinatorial Problem	2008	
+2552	N_biocarta	Schulthess	1,922	1,996	4,335	Biochemical Network	2012	
+1981	GL6_D_9	JGD_GL6	340	545	4,349	Combinatorial Problem	2008	
+24	bcsstk02	HB	66	66	4,356	Structural Problem	1982	
+1885	Maragal_2	NYPA	555	350	4,357	Least Squares Problem	2008	
+325	pde900	Bai	900	900	4,380	2D/3D Problem	1982	
+685	lp_ship04s	LPnetlib	402	1,506	4,400	Linear Programming Problem		
+1511	NotreDame_yeast	Barabasi	2,114	2,114	4,480	Undirected Graph	2001	
+1757	qiulp	Meszaros	1,192	1,900	4,492	Linear Programming Problem	2004	
+90	bp_800	HB	822	822	4,534	Subsequent Optimization Problem	1978	
+2867	Ecoli_10NN	ML_Graph	336	336	4,560	Undirected Weighted Graph	2020	
+699	lp_tuff	LPnetlib	333	628	4,561	Linear Programming Problem	1989	
+1968	IG5-9	JGD_G5	342	540	4,570	Combinatorial Problem	2008	
+2751	tumorAntiAngiogenesis_4	VDOL	455	455	4,593	Optimal Control Problem	2015	
+2754	tumorAntiAngiogenesis_7	VDOL	475	475	4,597	Optimal Control Problem	2015	
+223	nos7	HB	729	729	4,617	2D/3D Problem	1982	
+1922	bibd_11_5	JGD_BIBD	55	462	4,620	Combinatorial Problem	2008	
+1636	rdb800l	Bai	800	800	4,640	Computational Fluid Dynamics Problem	1994	
+1717	l9	Meszaros	244	1,483	4,659	Linear Programming Problem	2004	
+83	bp_1000	HB	822	822	4,661	Subsequent Optimization Problem	1978	
+2208	Trefethen_300	JGD_Trefethen	300	300	4,678	Combinatorial Problem	2008	
+305	cdde6	Bai	961	961	4,681	Subsequent Computational Fluid Dynamics Problem	1992	
+304	cdde5	Bai	961	961	4,681	Subsequent Computational Fluid Dynamics Problem	1992	
+303	cdde4	Bai	961	961	4,681	Subsequent Computational Fluid Dynamics Problem	1992	
+302	cdde3	Bai	961	961	4,681	Subsequent Computational Fluid Dynamics Problem	1992	
+301	cdde2	Bai	961	961	4,681	Subsequent Computational Fluid Dynamics Problem	1992	
+300	cdde1	Bai	961	961	4,681	Computational Fluid Dynamics Problem Sequence	1992	
+2752	tumorAntiAngiogenesis_5	VDOL	460	460	4,690	Optimal Control Problem	2015	
+169	illc1033	HB	1,033	320	4,719	Least Squares Problem	1979	
+2764	mycielskian8	Mycielski	191	191	4,720	Undirected Graph	2018	
+2060	mk10-b4	JGD_Homology	945	4,725	4,725	Combinatorial Problem	2008	
+84	bp_1200	HB	822	822	4,726	Subsequent Optimization Problem	1978	
+260	well1033	HB	1,033	320	4,732	Least Squares Problem	1979	
+599	lp_agg2	LPnetlib	516	758	4,740	Linear Programming Problem	1988	
+600	lp_agg3	LPnetlib	516	758	4,756	Linear Programming Problem	1988	
+2755	tumorAntiAngiogenesis_8	VDOL	490	490	4,776	Optimal Control Problem	2015	
+85	bp_1400	HB	822	822	4,790	Subsequent Optimization Problem	1978	
+2753	tumorAntiAngiogenesis_6	VDOL	465	465	4,795	Optimal Control Problem	2015	
+2111	n4c5-b3	JGD_Homology	1,350	455	5,400	Combinatorial Problem	2008	
+1442	rail_1357	Oberwolfach	1,357	1,357	8,985	Model Reduction Problem	2002	
+2744	spaceStation_11	VDOL	1,364	1,364	18,954	Optimal Control Problem	2015	
+2100	n3c6-b3	JGD_Homology	1,365	455	5,460	Combinatorial Problem	2008	
+2078	n2c6-b3	JGD_Homology	1,365	455	5,460	Combinatorial Problem	2008	
+214	nnc1374	HB	1,374	1,374	8,588	2D/3D Problem	1982	
+181	jagmesh6	HB	1,377	1,377	8,993	2D/3D Problem	1978	
+1895	photogrammetry	Luong	1,388	390	11,816	Computer Graphics/Vision Problem	2008	
+2857	Binaryalphadigs_10NN	ML_Graph	1,404	1,404	19,392	Undirected Weighted Graph	2020	
+420	ex23	FIDAP	1,409	1,409	42,760	Computational Fluid Dynamics Problem	1994	
+2745	spaceStation_12	VDOL	1,410	1,410	19,728	Optimal Control Problem	2015	
+2731	spaceShuttleEntry_2	VDOL	1,428	1,428	24,073	Optimal Control Problem	2015	
+1446	spiral	Oberwolfach	1,434	1,434	18,228	Model Reduction Problem	2006	
+359	msc01440	Boeing	1,440	1,440	44,998	Structural Problem	1995	
+179	jagmesh4	HB	1,440	1,440	9,504	2D/3D Problem	1978	
+654	lp_pilot	LPnetlib	1,441	4,860	44,375	Linear Programming Problem	1989	
+18	bcspwr06	HB	1,454	1,454	5,300	Power Network Problem	1981	
+2083	n2c6-b8	JGD_Homology	1,470	3,990	13,230	Combinatorial Problem	2008	
+66	bcsstm11	HB	1,473	1,473	1,473	Structural Problem	1982	
+34	bcsstk12	HB	1,473	1,473	34,241	Duplicate Structural Problem	1982	
+33	bcsstk11	HB	1,473	1,473	34,241	Structural Problem	1982	
+67	bcsstm12	HB	1,473	1,473	19,659	Structural Problem	1982	
+734	lhr01	Mallya	1,477	1,477	18,427	Chemical Process Simulation Problem	1994	
+680	lp_sctap3	LPnetlib	1,480	3,340	9,734	Linear Programming Problem	1981	
+1626	qh1484	Bai	1,484	1,484	6,110	Power Network Problem	1994	
+2892	yeast_30NN	ML_Graph	1,484	1,484	62,350	Undirected Weighted Graph	2020	
+2066	mk12-b1	JGD_Homology	1,485	66	2,970	Combinatorial Problem	2008	
+2402	polblogs	Newman	1,490	1,490	19,025	Directed Multigraph	2005	
+864	comsol	Langemyr	1,500	1,500	97,645	Structural Problem	2002	
+618	lp_degen3	LPnetlib	1,503	2,604	25,432	Linear Programming Problem	1989	
+271	west1505	HB	1,505	1,505	5,414	Chemical Process Simulation Problem	1983	
+2035	ch7-9-b1	JGD_Homology	1,512	63	3,024	Combinatorial Problem	2008	
+1803	fxm2-6	Meszaros	1,520	2,845	12,812	Linear Programming Problem	2004	
+1793	cep1	Meszaros	1,521	4,769	8,233	Linear Programming Problem	2004	
+2767	mycielskian11	Mycielski	1,535	1,535	134,710	Undirected Graph	2018	
+1788	gen4	Meszaros	1,537	4,298	107,103	Linear Programming Problem	2004	
+1483	GD06_Java	Pajek	1,538	1,538	8,032	Directed Graph	2006	
+2723	reorientation_2	VDOL	1,544	1,544	17,910	Optimal Control Problem	2015	
+1754	primagaz	Meszaros	1,554	10,836	21,665	Linear Programming Problem	2004	
+196	lshp1561	HB	1,561	1,561	10,681	Thermal Problem	1978	
+1751	pcb1000	Meszaros	1,565	2,820	20,463	Linear Programming Problem	2004	
+2040	ch8-8-b1	JGD_Homology	1,568	64	3,136	Combinatorial Problem	2008	
+2401	netscience	Newman	1,589	1,589	5,484	Undirected Weighted Graph	2006	
+2666	dynamicSoaringProblem_2	VDOL	1,591	1,591	15,588	Optimal Control Problem	2015	
+2884	semeion_10NN	ML_Graph	1,593	1,593	22,226	Undirected Weighted Graph	2020	
+2883	plantstexture_10NN	ML_Graph	1,599	1,599	21,204	Undirected Weighted Graph	2020	
+2881	Plants_10NN	ML_Graph	1,600	1,600	21,930	Undirected Weighted Graph	2020	
+2882	plantsmargin_12NN	ML_Graph	1,600	1,600	25,482	Undirected Weighted Graph	2020	
+434	ex4	FIDAP	1,601	1,601	31,849	Computational Fluid Dynamics Problem	1994	
+1724	model3	Meszaros	1,609	4,578	23,974	Linear Programming Problem	2004	
+19	bcspwr07	HB	1,612	1,612	5,824	Power Network Problem	1981	
+2746	spaceStation_13	VDOL	1,617	1,617	23,649	Optimal Control Problem	2015	
+20	bcspwr08	HB	1,624	1,624	6,050	Power Network Problem	1981	
+438	ex7	FIDAP	1,633	1,633	46,626	Computational Fluid Dynamics Problem	1994	
+2747	spaceStation_14	VDOL	1,640	1,640	24,324	Optimal Control Problem	2015	
+2692	hangGlider_2	VDOL	1,647	1,647	14,754	Optimal Control Problem	2015	
+1756	progas	Meszaros	1,650	1,900	8,897	Linear Programming Problem	2004	
+893	lung1	Norris	1,650	1,650	7,419	Computational Fluid Dynamics Problem	2003	
+437	ex6	FIDAP	1,651	1,651	49,062	Computational Fluid Dynamics Problem	1994	
+1430	filter2D	Oberwolfach	1,668	1,668	10,750	Model Reduction Problem	2006	
+1886	Maragal_3	NYPA	1,690	860	18,391	Least Squares Problem	2008	
+823	utm1700b	TOKAMAK	1,700	1,700	21,509	Electromagnetics Problem	1996	
+2055	lutz30-23-b6	JGD_Homology	1,716	3,003	12,012	Combinatorial Problem	2008	
+2675	freeFlyingRobot_3	VDOL	1,718	1,718	12,922	Optimal Control Problem	2015	
+21	bcspwr09	HB	1,723	1,723	6,511	Power Network Problem	1981	
+430	ex33	FIDAP	1,733	1,733	22,189	Computational Fluid Dynamics Problem	1994	
+287	epb0	Averous	1,794	1,794	7,764	Thermal Problem	1998	
+36	bcsstk14	HB	1,806	1,806	63,454	Structural Problem	1985	
+1008	adder_dcop_25	Sandia	1,813	1,813	11,246	Subsequent Circuit Simulation Problem	2003	
+1007	adder_dcop_24	Sandia	1,813	1,813	11,246	Subsequent Circuit Simulation Problem	2003	
+1037	adder_dcop_54	Sandia	1,813	1,813	11,246	Subsequent Circuit Simulation Problem	2003	
+1006	adder_dcop_23	Sandia	1,813	1,813	11,246	Subsequent Circuit Simulation Problem	2003	
+1005	adder_dcop_22	Sandia	1,813	1,813	11,246	Subsequent Circuit Simulation Problem	2003	
+1004	adder_dcop_21	Sandia	1,813	1,813	11,246	Subsequent Circuit Simulation Problem	2003	
+1003	adder_dcop_20	Sandia	1,813	1,813	11,246	Subsequent Circuit Simulation Problem	2003	
+1002	adder_dcop_19	Sandia	1,813	1,813	11,245	Subsequent Circuit Simulation Problem	2003	
+1038	adder_dcop_55	Sandia	1,813	1,813	11,246	Subsequent Circuit Simulation Problem	2003	
+1039	adder_dcop_56	Sandia	1,813	1,813	11,246	Subsequent Circuit Simulation Problem	2003	
+1040	adder_dcop_57	Sandia	1,813	1,813	11,246	Subsequent Circuit Simulation Problem	2003	
+1041	adder_dcop_58	Sandia	1,813	1,813	11,246	Subsequent Circuit Simulation Problem	2003	
+1001	adder_dcop_18	Sandia	1,813	1,813	11,246	Subsequent Circuit Simulation Problem	2003	
+1000	adder_dcop_17	Sandia	1,813	1,813	11,246	Subsequent Circuit Simulation Problem	2003	
+999	adder_dcop_16	Sandia	1,813	1,813	11,246	Subsequent Circuit Simulation Problem	2003	
+998	adder_dcop_15	Sandia	1,813	1,813	11,246	Subsequent Circuit Simulation Problem	2003	
+997	adder_dcop_14	Sandia	1,813	1,813	11,246	Subsequent Circuit Simulation Problem	2003	
+1013	adder_dcop_30	Sandia	1,813	1,813	11,246	Subsequent Circuit Simulation Problem	2003	
+1023	adder_dcop_40	Sandia	1,813	1,813	11,246	Subsequent Circuit Simulation Problem	2003	
+1024	adder_dcop_41	Sandia	1,813	1,813	11,246	Subsequent Circuit Simulation Problem	2003	
+1025	adder_dcop_42	Sandia	1,813	1,813	11,246	Subsequent Circuit Simulation Problem	2003	
+1021	adder_dcop_38	Sandia	1,813	1,813	11,246	Subsequent Circuit Simulation Problem	2003	
+1020	adder_dcop_37	Sandia	1,813	1,813	11,246	Subsequent Circuit Simulation Problem	2003	
+1019	adder_dcop_36	Sandia	1,813	1,813	11,246	Subsequent Circuit Simulation Problem	2003	
+1018	adder_dcop_35	Sandia	1,813	1,813	11,246	Subsequent Circuit Simulation Problem	2003	
+1026	adder_dcop_43	Sandia	1,813	1,813	11,246	Subsequent Circuit Simulation Problem	2003	
+1017	adder_dcop_34	Sandia	1,813	1,813	11,246	Subsequent Circuit Simulation Problem	2003	
+1016	adder_dcop_33	Sandia	1,813	1,813	11,246	Subsequent Circuit Simulation Problem	2003	
+1015	adder_dcop_32	Sandia	1,813	1,813	11,246	Subsequent Circuit Simulation Problem	2003	
+1027	adder_dcop_44	Sandia	1,813	1,813	11,245	Subsequent Circuit Simulation Problem	2003	
+1028	adder_dcop_45	Sandia	1,813	1,813	11,246	Subsequent Circuit Simulation Problem	2003	
+1014	adder_dcop_31	Sandia	1,813	1,813	11,246	Subsequent Circuit Simulation Problem	2003	
+1029	adder_dcop_46	Sandia	1,813	1,813	11,246	Subsequent Circuit Simulation Problem	2003	
+1030	adder_dcop_47	Sandia	1,813	1,813	11,246	Subsequent Circuit Simulation Problem	2003	
+1031	adder_dcop_48	Sandia	1,813	1,813	11,246	Subsequent Circuit Simulation Problem	2003	
+1032	adder_dcop_49	Sandia	1,813	1,813	11,246	Subsequent Circuit Simulation Problem	2003	
+1033	adder_dcop_50	Sandia	1,813	1,813	11,246	Subsequent Circuit Simulation Problem	2003	
+1034	adder_dcop_51	Sandia	1,813	1,813	11,246	Subsequent Circuit Simulation Problem	2003	
+1035	adder_dcop_52	Sandia	1,813	1,813	11,246	Subsequent Circuit Simulation Problem	2003	
+1012	adder_dcop_29	Sandia	1,813	1,813	11,246	Subsequent Circuit Simulation Problem	2003	
+1036	adder_dcop_53	Sandia	1,813	1,813	11,246	Subsequent Circuit Simulation Problem	2003	
+1011	adder_dcop_28	Sandia	1,813	1,813	11,246	Subsequent Circuit Simulation Problem	2003	
+1010	adder_dcop_27	Sandia	1,813	1,813	11,246	Subsequent Circuit Simulation Problem	2003	
+1009	adder_dcop_26	Sandia	1,813	1,813	11,246	Subsequent Circuit Simulation Problem	2003	
+1042	adder_dcop_59	Sandia	1,813	1,813	11,246	Subsequent Circuit Simulation Problem	2003	
+1043	adder_dcop_60	Sandia	1,813	1,813	11,246	Subsequent Circuit Simulation Problem	2003	
+1044	adder_dcop_61	Sandia	1,813	1,813	11,246	Subsequent Circuit Simulation Problem	2003	
+996	adder_dcop_13	Sandia	1,813	1,813	11,245	Subsequent Circuit Simulation Problem	2003	
+995	adder_dcop_12	Sandia	1,813	1,813	11,246	Subsequent Circuit Simulation Problem	2003	
+994	adder_dcop_11	Sandia	1,813	1,813	11,243	Subsequent Circuit Simulation Problem	2003	
+993	adder_dcop_10	Sandia	1,813	1,813	11,232	Subsequent Circuit Simulation Problem	2003	
+992	adder_dcop_09	Sandia	1,813	1,813	11,239	Subsequent Circuit Simulation Problem	2003	
+991	adder_dcop_08	Sandia	1,813	1,813	11,242	Subsequent Circuit Simulation Problem	2003	
+990	adder_dcop_07	Sandia	1,813	1,813	11,226	Subsequent Circuit Simulation Problem	2003	
+989	adder_dcop_06	Sandia	1,813	1,813	11,224	Subsequent Circuit Simulation Problem	2003	
+1045	adder_dcop_62	Sandia	1,813	1,813	11,246	Subsequent Circuit Simulation Problem	2003	
+988	adder_dcop_05	Sandia	1,813	1,813	11,097	Subsequent Circuit Simulation Problem	2003	
+987	adder_dcop_04	Sandia	1,813	1,813	11,107	Subsequent Circuit Simulation Problem	2003	
+985	adder_dcop_02	Sandia	1,813	1,813	11,246	Subsequent Circuit Simulation Problem	2003	
+984	adder_dcop_01	Sandia	1,813	1,813	11,156	Subsequent Circuit Simulation Problem	2003	
+1046	adder_dcop_63	Sandia	1,813	1,813	11,246	Subsequent Circuit Simulation Problem	2003	
+1047	adder_dcop_64	Sandia	1,813	1,813	11,246	Subsequent Circuit Simulation Problem	2003	
+1048	adder_dcop_65	Sandia	1,813	1,813	11,246	Subsequent Circuit Simulation Problem	2003	
+1049	adder_dcop_66	Sandia	1,813	1,813	11,246	Subsequent Circuit Simulation Problem	2003	
+986	adder_dcop_03	Sandia	1,813	1,813	11,148	Subsequent Circuit Simulation Problem	2003	
+1050	adder_dcop_67	Sandia	1,813	1,813	11,246	Subsequent Circuit Simulation Problem	2003	
+1051	adder_dcop_68	Sandia	1,813	1,813	11,246	Subsequent Circuit Simulation Problem	2003	
+1052	adder_dcop_69	Sandia	1,813	1,813	11,246	Subsequent Circuit Simulation Problem	2003	
+1022	adder_dcop_39	Sandia	1,813	1,813	11,246	Subsequent Circuit Simulation Problem	2003	
+1108	init_adder1	Sandia	1,813	1,813	11,156	Circuit Simulation Problem Sequence	2003	
+1054	adder_trans_02	Sandia	1,814	1,814	14,579	Subsequent Circuit Simulation Problem	2003	
+1053	adder_trans_01	Sandia	1,814	1,814	14,579	Circuit Simulation Problem Sequence	2003	
+1833	scrs8-2c	Meszaros	1,820	3,499	7,367	Linear Programming Problem Sequence	2004	
+1832	scrs8-2b	Meszaros	1,820	3,499	7,367	Linear Programming Problem Sequence	2004	
+427	ex3	FIDAP	1,821	1,821	52,685	Computational Fluid Dynamics Problem	1994	
+363	nasa1824	Boeing	1,824	1,824	39,208	Duplicate Structural Problem	1995	
+757	nasa1824	Nasa	1,824	1,824	39,208	Structural Problem	1995	
+2732	spaceShuttleEntry_3	VDOL	1,834	1,834	28,757	Optimal Control Problem	2015	
+2156	flower_4_4	JGD_Margulies	1,837	5,529	16,466	Combinatorial Problem	2008	
+261	well1850	HB	1,850	712	8,755	Least Squares Problem	1979	
+170	illc1850	HB	1,850	712	8,636	Least Squares Problem	1979	
+259	watt_2	HB	1,856	1,856	11,550	Computational Fluid Dynamics Problem	1983	
+258	watt_1	HB	1,856	1,856	11,360	Computational Fluid Dynamics Problem	1983	
+2423	ukerbe1_dual	AG-Monien	1,866	1,866	7,076	2D/3D Problem	1998	
+1196	rajat12	Rajat	1,879	1,879	12,818	Circuit Simulation Problem	2004	
+197	lshp1882	HB	1,882	1,882	12,904	Thermal Problem	1978	
+1458	CSphd	Pajek	1,882	1,882	1,740	Directed Graph	2006	
+1726	model5	Meszaros	1,888	11,802	89,925	Linear Programming Problem	2004	
+2116	n4c5-b8	JGD_Homology	1,895	3,635	17,055	Combinatorial Problem	2008	
+2777	CollegeMsg	SNAP	1,899	1,899	20,296	Directed Temporal Multigraph	2009	
+613	lp_cycle	LPnetlib	1,903	3,371	21,234	Linear Programming Problem	1989	
+1941	CAG_mat1916	JGD_CAG	1,916	1,916	195,985	Combinatorial Problem	2008	
+230	plsk1919	HB	1,919	1,919	9,662	2D/3D Problem	1975	
+228	plat1919	HB	1,919	1,919	32,399	2D/3D Problem	1975	
+48	bcsstk26	HB	1,922	1,922	30,336	Structural Problem	1984	
+76	bcsstm26	HB	1,922	1,922	1,922	Structural Problem	1984	
+2552	N_biocarta	Schulthess	1,922	1,996	4,335	Biochemical Network	2012	
+1794	deter0	Meszaros	1,923	5,468	11,173	Linear Programming Problem	2004	
+1186	rajat02	Rajat	1,960	1,960	11,187	Circuit Simulation Problem	2004	
+2420	netz4504	AG-Monien	1,961	1,961	5,156	2D/3D Problem	1998	
+1887	Maragal_4	NYPA	1,964	1,034	26,719	Least Squares Problem	2008	
+2818	Goodwin_013	Goodwin	1,965	1,965	56,069	Computational Fluid Dynamics	2018	
+494	G32	Gset	2,000	2,000	8,000	Undirected Weighted Random Graph	1996	
+484	G23	Gset	2,000	2,000	39,980	Undirected Random Graph	1996	
+505	G42	Gset	2,000	2,000	23,558	Undirected Weighted Random Graph	1996	
+504	G41	Gset	2,000	2,000	23,570	Undirected Weighted Random Graph	1996	
+503	G40	Gset	2,000	2,000	23,532	Undirected Weighted Random Graph	1996	
+501	G39	Gset	2,000	2,000	23,556	Undirected Weighted Random Graph	1996	
+500	G38	Gset	2,000	2,000	23,558	Duplicate Undirected Random Graph	1996	
+499	G37	Gset	2,000	2,000	23,570	Duplicate Undirected Random Graph	1996	
+498	G36	Gset	2,000	2,000	23,532	Duplicate Undirected Random Graph	1996	
+497	G35	Gset	2,000	2,000	23,556	Duplicate Undirected Random Graph	1996	
+496	G34	Gset	2,000	2,000	8,000	Undirected Weighted Random Graph	1996	
+495	G33	Gset	2,000	2,000	8,000	Undirected Weighted Random Graph	1996	
+493	G31	Gset	2,000	2,000	39,980	Undirected Weighted Random Graph	1996	
+492	G30	Gset	2,000	2,000	39,980	Undirected Weighted Random Graph	1996	
+490	G29	Gset	2,000	2,000	39,980	Undirected Weighted Random Graph	1996	
+489	G28	Gset	2,000	2,000	39,980	Undirected Weighted Random Graph	1996	
+488	G27	Gset	2,000	2,000	39,980	Undirected Weighted Random Graph	1996	
+487	G26	Gset	2,000	2,000	39,980	Undirected Random Graph	1996	
+486	G25	Gset	2,000	2,000	39,980	Undirected Random Graph	1996	
+485	G24	Gset	2,000	2,000	39,980	Undirected Random Graph	1996	
+320	olm2000	Bai	2,000	2,000	7,996	Computational Fluid Dynamics Problem	1994	
+2211	Trefethen_2000	JGD_Trefethen	2,000	2,000	41,906	Combinatorial Problem	2008	
+483	G22	Gset	2,000	2,000	39,980	Undirected Random Graph	1996	
+299	bwm2000	Bai	2,000	2,000	7,996	Chemical Process Simulation Problem	1992	
+2865	dataset22mfeatzernike_10NN	ML_Graph	2,000	2,000	27,414	Undirected Weighted Graph	2020	
+2864	dataset20mfeatpixel_10NN	ML_Graph	2,000	2,000	27,932	Undirected Weighted Graph	2020	
+2863	dataset18mfeatmorphological_10NN	ML_Graph	2,000	2,000	22,832	Undirected Weighted Graph	2020	
+2862	dataset16mfeatkarhunen_10NN	ML_Graph	2,000	2,000	27,668	Undirected Weighted Graph	2020	
+2861	dataset12mfeatfactors_10NN	ML_Graph	2,000	2,000	27,442	Undirected Weighted Graph	2020	
+1638	tols2000	Bai	2,000	2,000	5,184	Computational Fluid Dynamics Problem	1991	
+35	bcsstk13	HB	2,003	2,003	83,883	Computational Fluid Dynamics Problem	1982	
+68	bcsstm13	HB	2,003	2,003	21,181	Computational Fluid Dynamics Problem	1982	
+272	west2021	HB	2,021	2,021	7,310	Chemical Process Simulation Problem	1983	
+1441	piston	Oberwolfach	2,025	2,025	100,015	Model Reduction Problem	2006	
+2359	M40PI_n1	Rommes	2,028	2,028	5,007	Eigenvalue/Model Reduction Problem	2010	
+2367	S40PI_n1	Rommes	2,028	2,028	5,007	Eigenvalue/Model Reduction Problem	2010	
+656	lp_pilot87	LPnetlib	2,030	6,680	74,949	Linear Programming Problem	1990	
+309	dw1024	Bai	2,048	2,048	10,114	Electromagnetics Problem	1993	
+2466	delaunay_n11	DIMACS10	2,048	2,048	12,254	Undirected Graph	2011	
+1632	rdb2048_noL	Bai	2,048	2,048	12,032	Computational Fluid Dynamics Problem	1994	
+331	rdb2048	Bai	2,048	2,048	12,032	Computational Fluid Dynamics Problem	1994	
+1614	dw2048	Bai	2,048	2,048	10,114	Electromagnetics Problem	1993	
+2696	kineticBatchReactor_1	VDOL	2,052	2,052	20,600	Optimal Control Problem	2015	
+1865	Chebyshev2	Muite	2,053	2,053	18,447	Structural Problem	2007	
+1767	rosen10	Meszaros	2,056	6,152	64,192	Linear Programming Problem	2004	
+1750	p6000	Meszaros	2,095	7,967	19,826	Linear Programming Problem	2004	
+1727	model6	Meszaros	2,096	5,289	27,628	Linear Programming Problem	2004	
+1715	jendrec1	Meszaros	2,109	4,228	89,608	Linear Programming Problem	2004	
+1511	NotreDame_yeast	Barabasi	2,114	2,114	4,480	Undirected Graph	2001	
+81	blckhole	HB	2,132	2,132	14,872	Structural Problem	1983	
+2256	TS	MathWorks	2,142	2,142	45,262	Counter Example Problem	2009	
+758	nasa2146	Nasa	2,146	2,146	72,250	Structural Problem	1995	
+696	lp_stocfor2	LPnetlib	2,157	3,045	9,357	Linear Programming Problem	1988	
+423	ex26	FIDAP	2,163	2,163	74,464	Computational Fluid Dynamics Problem	1994	
+1537	c-18	Schenk_IBMNA	2,169	2,169	15,145	Optimization Problem	2006	
+615	lp_d2q06c	LPnetlib	2,171	5,831	33,081	Linear Programming Problem	1989	
+2371	S40PI_n	Rommes	2,182	2,182	5,341	Eigenvalue/Model Reduction Problem	2010	
+2363	M40PI_n	Rommes	2,182	2,182	5,341	Eigenvalue/Model Reduction Problem	2010	
+417	ex20	FIDAP	2,203	2,203	67,830	Computational Fluid Dynamics Problem	1994	
+227	orsreg_1	HB	2,205	2,205	14,133	Computational Fluid Dynamics Problem	1984	
+1179	lock2232	HB	2,232	2,232	80,352	Structural Problem	1980	
+198	lshp2233	HB	2,233	2,233	15,337	Thermal Problem	1978	
+1954	Franz1	JGD_Franz	2,240	768	5,120	Combinatorial Problem	2008	
+595	lp_80bau3b	LPnetlib	2,262	12,061	23,264	Linear Programming Problem		
+421	ex24	FIDAP	2,283	2,283	47,901	Computational Fluid Dynamics Problem	1994	
+1378	Sieber	MathWorks	2,290	2,290	14,873	Counter Example Problem	2006	
+1971	IG5-12	JGD_G5	2,296	2,875	46,260	Combinatorial Problem	2008	
+1737	nemspmm2	Meszaros	2,301	8,734	68,225	Linear Programming Problem	2004	
+1776	stat96v5	Meszaros	2,307	75,779	233,921	Linear Programming Problem	2005	
+2706	lowThrust_2	VDOL	2,312	2,312	26,261	Optimal Control Problem	2015	
+605	lp_bnl2	LPnetlib	2,324	4,486	14,996	Linear Programming Problem	1989	
+1538	c-19	Schenk_IBMNA	2,327	2,327	21,817	Optimization Problem	2006	
+646	lp_osa_14	LPnetlib	2,337	54,797	317,097	Linear Programming Problem	1990	
+891	heart2	Norris	2,339	2,339	680,341	2D/3D Problem	2003	
+892	heart3	Norris	2,339	2,339	680,341	2D/3D Problem	2003	
+2182	relat6	JGD_Relat	2,340	157	8,108	Combinatorial Problem	2008	
+2175	rel6	JGD_Relat	2,340	157	5,101	Combinatorial Problem	2008	
+2676	freeFlyingRobot_4	VDOL	2,358	2,358	18,218	Optimal Control Problem	2015	
+1533	yeast	Pajek	2,361	2,361	13,828	Undirected Graph	2003	
+1736	nemspmm1	Meszaros	2,372	8,903	55,867	Linear Programming Problem	2004	
+2004	HFE18_96_in	JGD_Groebner	2,372	4,096	933,343	Combinatorial Problem	2008	
+631	lp_greenbeb	LPnetlib	2,392	5,598	31,070	Linear Programming Problem	1984	
+630	lp_greenbea	LPnetlib	2,392	5,598	31,070	Linear Programming Problem	1984	
+718	lpi_greenbea	LPnetlib	2,393	5,596	31,074	Linear Programming Problem	1988	
+539	add20	Hamm	2,395	2,395	13,151	Circuit Simulation Problem	1991	
+841	rdist3a	Zitney	2,398	2,398	61,896	Chemical Process Simulation Problem	1992	
+2018	ch6-6-b2	JGD_Homology	2,400	450	7,200	Combinatorial Problem	2008	
+407	ex10	FIDAP	2,410	2,410	54,840	Computational Fluid Dynamics Problem	1994	
+2891	YaleB_10NN	ML_Graph	2,414	2,414	34,808	Undirected Weighted Graph	2020	
+637	lp_ken_07	LPnetlib	2,426	3,602	8,404	Linear Programming Problem	1991	
+2663	MISKnowledgeMap	Moqri	2,427	2,427	57,022	Undirected Weighted Graph	2015	
+1828	scagr7-2c	Meszaros	2,447	3,479	9,005	Linear Programming Problem Sequence	2004	
+2733	spaceShuttleEntry_4	VDOL	2,450	2,450	39,669	Optimal Control Problem	2015	
+2230	TSOPF_FS_b9_c1	TSOPF	2,454	2,454	25,032	Power Network Problem	2009	
+2003	f855_mat9_I	JGD_Groebner	2,456	2,511	171,214	Combinatorial Problem	2008	
+2002	f855_mat9	JGD_Groebner	2,456	2,511	171,214	Combinatorial Problem	2008	
+1613	cryg2500	Bai	2,500	2,500	12,349	Materials Problem	1996	
+2655	LeGresley_2508	LeGresley	2,508	2,508	16,727	Power Network Problem	2013	
+2106	n3c6-b9	JGD_Homology	2,511	4,935	25,110	Combinatorial Problem	2008	
+2724	reorientation_3	VDOL	2,513	2,513	32,166	Optimal Control Problem	2015	
+224	orani678	HB	2,529	2,529	90,158	Economic Problem	1984	
+326	qc2534	Bai	2,534	2,534	463,360	Electromagnetics Problem	1991	
+1401	Chem97ZtZ	Bates	2,541	2,541	7,361	Statistical/Mathematical Problem	2006	
+1400	Chem97Zt	Bates	2,541	31,022	62,044	Statistical/Mathematical Problem	2006	
+408	ex10hs	FIDAP	2,548	2,548	57,308	Computational Fluid Dynamics Problem	1994	
+2563	cz2548	CPM	2,548	2,548	25,674	2D/3D Problem	2012	
+2428	diag	AG-Monien	2,559	2,559	8,184	2D/3D Problem	1998	
+411	ex13	FIDAP	2,568	2,568	75,628	Computational Fluid Dynamics Problem	1994	
+1657	rail2586	Mittelmann	2,586	923,269	8,011,362	Linear Programming Problem	2005	
+391	cavity12	DRIVCAV	2,597	2,597	76,258	Subsequent Computational Fluid Dynamics Problem	1996	
+390	cavity11	DRIVCAV	2,597	2,597	71,601	Subsequent Computational Fluid Dynamics Problem	1996	
+389	cavity10	DRIVCAV	2,597	2,597	76,171	Computational Fluid Dynamics Problem Sequence	1996	
+392	cavity13	DRIVCAV	2,597	2,597	71,601	Subsequent Computational Fluid Dynamics Problem	1996	
+393	cavity14	DRIVCAV	2,597	2,597	76,258	Subsequent Computational Fluid Dynamics Problem	1996	
+394	cavity15	DRIVCAV	2,597	2,597	71,601	Subsequent Computational Fluid Dynamics Problem	1996	
+2198	EX4	JGD_SPG	2,600	2,600	71,760	Combinatorial Problem	2008	
+2197	EX3	JGD_SPG	2,600	2,600	71,760	Combinatorial Problem	2008	
+425	ex28	FIDAP	2,603	2,603	77,031	Computational Fluid Dynamics Problem	1994	
+199	lshp2614	HB	2,614	2,614	17,980	Thermal Problem	1978	
+370	circuit_1	Bomhof	2,624	2,624	35,823	Circuit Simulation Problem	2000	
+2331	minnesota	Gleich	2,642	2,642	6,606	Undirected Graph	2010	
+1948	TF14	JGD_Forest	2,644	3,160	29,862	Combinatorial Problem	2008	
+717	lpi_gran	LPnetlib	2,658	2,525	20,111	Linear Programming Problem	1993	
+705	lpi_bgindy	LPnetlib	2,671	10,880	66,266	Linear Programming Problem	1993	
+120	dwt_2680	HB	2,680	2,680	25,026	Structural Problem	1980	
+1791	l30	Meszaros	2,701	16,281	52,070	Linear Programming Problem	2004	
+2725	reorientation_4	VDOL	2,717	2,717	33,630	Optimal Control Problem	2015	
+1998	GL7d25	JGD_GL7d	2,798	21,074	81,671	Combinatorial Problem	2008	
+1173	cegb2802	HB	2,802	2,802	277,362	Structural Problem	1980	
+1535	extr1b	Zitney	2,836	2,836	10,965	Chemical Process Simulation Problem Sequence	1994	
+836	extr1	Zitney	2,837	2,837	10,967	Chemical Process Simulation Problem	1997	
+2522	data	DIMACS10	2,851	2,851	30,186	Undirected Graph	2000	
+2112	n4c5-b4	JGD_Homology	2,852	1,350	14,260	Combinatorial Problem	2008	
+1770	slptsk	Meszaros	2,861	3,347	72,465	Linear Programming Problem	2004	
+426	ex29	FIDAP	2,870	2,870	23,754	Computational Fluid Dynamics Problem	1994	
+2667	dynamicSoaringProblem_3	VDOL	2,871	2,871	32,022	Optimal Control Problem	2015	
+282	zenios	HB	2,873	2,873	1,314	Optimization Problem	1985	
+2677	freeFlyingRobot_5	VDOL	2,878	2,878	24,582	Optimal Control Problem	2015	
+1730	model9	Meszaros	2,879	10,939	55,956	Linear Programming Problem	2004	
+545	g7jac010	Hollinger	2,880	2,880	18,229	Economic Problem	2001	
+546	g7jac010sc	Hollinger	2,880	2,880	18,229	Economic Problem	2001	
+1729	model8	Meszaros	2,896	6,464	25,277	Linear Programming Problem	2004	
+830	wang1	Wang	2,903	2,903	19,093	Semiconductor Device Problem Sequence	1994	
+831	wang2	Wang	2,903	2,903	19,093	Subsequent Semiconductor Device Problem	1994	
+2726	reorientation_5	VDOL	2,904	2,904	35,590	Optimal Control Problem	2015	
+465	meg1	Grund	2,904	2,904	58,142	Circuit Simulation Problem	1997	
+1512	ODLIS	Pajek	2,909	2,909	18,246	Directed Multigraph	2000	
+364	nasa2910	Boeing	2,910	2,910	174,296	Duplicate Structural Problem	1995	
+759	nasa2910	Nasa	2,910	2,910	174,296	Structural Problem	1995	
+1174	cegb2919	HB	2,919	2,919	321,543	Structural Problem	1980	
+1539	c-20	Schenk_IBMNA	2,921	2,921	20,445	Optimization Problem	2006	
+649	lp_pds_02	LPnetlib	2,953	7,716	16,571	Linear Programming Problem	1990	
+735	lhr02	Mallya	2,954	2,954	36,875	Chemical Process Simulation Problem	1994	
+1718	lp22	Meszaros	2,958	16,392	68,518	Linear Programming Problem	2004	
+324	pde2961	Bai	2,961	2,961	14,585	2D/3D Problem	1982	
+512	G49	Gset	3,000	3,000	12,000	Undirected Random Graph	1996	
+514	G50	Gset	3,000	3,000	12,000	Undirected Random Graph	1996	
+627	lp_fit2p	LPnetlib	3,000	13,525	50,284	Linear Programming Problem	1990	
+511	G48	Gset	3,000	3,000	12,000	Undirected Random Graph	1996	
+1790	iprob	Meszaros	3,001	3,001	9,000	Linear Programming Problem	2004	
+1239	laser	GHS_indef	3,002	3,002	9,000	Materials Problem	2004	
+2101	n3c6-b4	JGD_Homology	3,003	1,365	15,015	Combinatorial Problem	2008	
+2079	n2c6-b4	JGD_Homology	3,003	1,365	15,015	Combinatorial Problem	2008	
+710	lpi_cplex1	LPnetlib	3,005	5,224	10,947	Linear Programming Problem	1993	
+2727	reorientation_6	VDOL	3,006	3,006	37,342	Optimal Control Problem	2015	
+459	bayer08	Grund	3,008	3,008	20,698	Chemical Process Simulation Problem	1997	
+457	bayer06	Grund	3,008	3,008	20,715	Chemical Process Simulation Problem	1997	
+1175	cegb3024	HB	3,024	3,024	79,848	Structural Problem	1980	
+200	lshp3025	HB	3,025	3,025	20,833	Thermal Problem	1978	
+2728	reorientation_7	VDOL	3,057	3,057	37,150	Optimal Control Problem	2015	
+825	utm3060	TOKAMAK	3,060	3,060	42,211	Electromagnetics Problem	1996	
+611	lp_cre_c	LPnetlib	3,068	6,411	15,977	Linear Programming Problem	1990	
+1822	plddb	Meszaros	3,069	5,049	10,839	Linear Programming Problem Sequence	2004	
+2768	mycielskian12	Mycielski	3,071	3,071	407,200	Undirected Graph	2018	
+1591	conf5_0-4x4-10	QCD	3,072	3,072	119,808	Theoretical/Quantum Chemistry Problem	1999	
+1593	conf5_0-4x4-18	QCD	3,072	3,072	119,808	Theoretical/Quantum Chemistry Problem	1999	
+1597	conf6_0-4x4-30	QCD	3,072	3,072	119,808	Theoretical/Quantum Chemistry Problem	1999	
+1596	conf6_0-4x4-20	QCD	3,072	3,072	119,808	Theoretical/Quantum Chemistry Problem	1999	
+1592	conf5_0-4x4-14	QCD	3,072	3,072	119,808	Theoretical/Quantum Chemistry Problem	1999	
+1595	conf5_0-4x4-26	QCD	3,072	3,072	119,808	Theoretical/Quantum Chemistry Problem	1999	
+1594	conf5_0-4x4-22	QCD	3,072	3,072	119,808	Theoretical/Quantum Chemistry Problem	1999	
+432	ex36	FIDAP	3,079	3,079	53,099	Computational Fluid Dynamics Problem	1994	
+460	bayer09	Grund	3,083	3,083	11,767	Chemical Process Simulation Problem	1997	
+1521	SciMet	Pajek	3,084	3,084	10,413	Directed Multigraph	2002	
+439	ex8	FIDAP	3,096	3,096	90,841	Computational Fluid Dynamics Problem	1994	
+2729	reorientation_8	VDOL	3,108	3,108	37,894	Optimal Control Problem	2015	
+73	bcsstm23	HB	3,134	3,134	3,134	Structural Problem	1984	
+45	bcsstk23	HB	3,134	3,134	45,178	Structural Problem	1984	
+643	lp_maros_r7	LPnetlib	3,136	9,408	144,848	Linear Programming Problem	1994	
+1823	rat	Meszaros	3,136	9,408	268,908	Linear Programming Problem Sequence	2004	
+2419	grid2_dual	AG-Monien	3,136	3,136	12,224	2D/3D Problem	1998	
+235	psmigr_1	HB	3,140	3,140	543,160	Economic Problem	1983	
+237	psmigr_3	HB	3,140	3,140	543,160	Economic Problem	1983	
+236	psmigr_2	HB	3,140	3,140	540,022	Economic Problem	1983	
+2058	mk10-b2	JGD_Homology	3,150	630	9,450	Combinatorial Problem	2008	
+2148	Trec14	JGD_Kocay	3,159	15,905	2,872,265	Combinatorial Problem	2008	
+828	swang1	Wang	3,169	3,169	20,841	Semiconductor Device Problem Sequence	1994	
+829	swang2	Wang	3,169	3,169	20,841	Subsequent Semiconductor Device Problem	1994	
+1816	delf	Meszaros	3,170	6,654	15,397	Linear Programming Problem Sequence	2004	
+1775	stat96v4	Meszaros	3,173	63,076	491,336	Linear Programming Problem	2005	
+444	garon1	Garon	3,175	3,175	84,723	Computational Fluid Dynamics Problem	1996	
+2668	dynamicSoaringProblem_4	VDOL	3,191	3,191	36,516	Optimal Control Problem	2015	
+660	lp_qap12	LPnetlib	3,192	8,856	38,304	Linear Programming Problem		
+797	lp_nug12	Qaplib	3,192	8,856	38,304	Linear Programming Problem	1995	
+840	rdist2	Zitney	3,198	3,198	56,834	Chemical Process Simulation Problem	1992	
+1622	mhd3200a	Bai	3,200	3,200	68,026	Electromagnetics Problem	1994	
+1633	rdb3200l	Bai	3,200	3,200	18,880	Computational Fluid Dynamics Problem	1994	
+1623	mhd3200b	Bai	3,200	3,200	18,316	Electromagnetics Problem	1994	
+1703	dano3mip	Meszaros	3,202	15,851	81,633	Linear Programming Problem	2004	
+1798	deter4	Meszaros	3,235	9,133	19,231	Linear Programming Problem	2004	
+1940	bibd_81_3	JGD_BIBD	3,240	85,320	255,960	Combinatorial Problem	2008	
+1939	bibd_81_2	JGD_BIBD	3,240	3,240	3,240	Combinatorial Problem	2008	
+814	raefsky1	Simon	3,242	3,242	293,409	Computational Fluid Dynamics Problem Sequence	1993	
+815	raefsky2	Simon	3,242	3,242	293,551	Subsequent Computational Fluid Dynamics Problem	1993	
+412	ex14	FIDAP	3,251	3,251	65,875	Computational Fluid Dynamics Problem	1994	
+458	bayer07	Grund	3,268	3,268	20,963	Chemical Process Simulation Problem	1997	
+456	bayer05	Grund	3,268	3,268	20,712	Chemical Process Simulation Problem	1997	
+2669	dynamicSoaringProblem_5	VDOL	3,271	3,271	36,789	Optimal Control Problem	2015	
+1719	lpl2	Meszaros	3,294	10,881	32,232	Linear Programming Problem	2004	
+2418	grid2	AG-Monien	3,296	3,296	12,864	2D/3D Problem	1998	
+1176	cegb3306	HB	3,306	3,306	74,916	Structural Problem	1980	
+246	sherman5	HB	3,312	3,312	20,793	Computational Fluid Dynamics Problem	1984	
+2819	Goodwin_017	Goodwin	3,317	3,317	97,773	Computational Fluid Dynamics	2018	
+250	sstmodel	HB	3,345	3,345	22,749	Structural Problem	1983	
+1728	model7	Meszaros	3,358	9,582	51,027	Linear Programming Problem	2004	
+2678	freeFlyingRobot_6	VDOL	3,358	3,358	27,030	Optimal Control Problem	2015	
+440	ex9	FIDAP	3,363	3,363	99,471	Computational Fluid Dynamics Problem	1994	
+1839	sctap1-2c	Meszaros	3,390	7,458	21,854	Linear Programming Problem Sequence	2004	
+819	raefsky6	Simon	3,402	3,402	130,371	Structural Problem	1993	
+2670	dynamicSoaringProblem_6	VDOL	3,431	3,431	36,741	Optimal Control Problem	2015	
+900	shermanACa	Shen	3,432	3,432	25,220	2D/3D Problem	2003	
+377	thermal	Brunetiere	3,456	3,456	66,528	Thermal Problem	2000	
+201	lshp3466	HB	3,466	3,466	23,896	Thermal Problem	1978	
+1180	lock3491	HB	3,491	3,491	160,444	Structural Problem	1980	
+1540	c-21	Schenk_IBMNA	3,509	3,509	32,145	Optimization Problem	2006	
+2671	dynamicSoaringProblem_7	VDOL	3,511	3,511	37,680	Optimal Control Problem	2015	
+609	lp_cre_a	LPnetlib	3,516	7,248	18,168	Linear Programming Problem	1990	
+910	cage9	vanHeukelum	3,534	3,534	41,594	Directed Weighted Graph	2003	
+2672	dynamicSoaringProblem_8	VDOL	3,543	3,543	38,136	Optimal Control Problem	2015	
+890	heart1	Norris	3,557	3,557	1,385,317	2D/3D Problem	2003	
+46	bcsstk24	HB	3,562	3,562	159,910	Structural Problem	1984	
+74	bcsstm24	HB	3,562	3,562	3,562	Structural Problem	1984	
+241	saylr4	HB	3,564	3,564	22,316	Computational Fluid Dynamics Problem	1984	
+433	ex37	FIDAP	3,565	3,565	67,591	Computational Fluid Dynamics Problem	1994	
+708	lpi_ceria3d	LPnetlib	3,576	4,400	21,178	Linear Programming Problem		
+43	bcsstk21	HB	3,600	3,600	26,600	Structural Problem	1984	
+71	bcsstm21	HB	3,600	3,600	3,600	Structural Problem	1984	
+2252	162bit	Priebel	3,606	3,597	37,118	Combinatorial Problem	2009	
+2553	N_pid	Schulthess	3,625	3,923	8,054	Biochemical Network	2012	
+2115	n4c5-b7	JGD_Homology	3,635	4,735	29,080	Combinatorial Problem	2008	
+1695	ch	Meszaros	3,700	8,291	24,102	Linear Programming Problem	2004	
+1690	aircraft	Meszaros	3,754	7,517	20,267	Linear Programming Problem	2004	
+1792	stoch_aircraft	Meszaros	3,754	7,517	20,267	Linear Programming Problem	2004	
+2790	soc-sign-bitcoin-alpha	SNAP	3,783	3,783	24,186	Directed Weighted Temporal Graph	2016	
+1541	c-22	Schenk_IBMNA	3,792	3,792	28,870	Optimization Problem	2006	
+716	lpi_gosh	LPnetlib	3,792	13,455	99,953	Linear Programming Problem	1993	
+1544	c-25	Schenk_IBMNA	3,797	3,797	49,635	Optimization Problem	2006	
+1802	deter8	Meszaros	3,831	10,905	22,299	Linear Programming Problem	2004	
+1804	fxm2-16	Meszaros	3,900	7,335	32,972	Linear Programming Problem	2004	
+428	ex31	FIDAP	3,909	3,909	91,223	Computational Fluid Dynamics Problem	1994	
+2679	freeFlyingRobot_7	VDOL	3,918	3,918	31,046	Optimal Control Problem	2015	
+189	lns_3937	HB	3,937	3,937	25,407	Computational Fluid Dynamics Problem	1982	
+191	lnsp3937	HB	3,937	3,937	25,407	Computational Fluid Dynamics Problem	1982	
+1734	nemsemm1	Meszaros	3,945	75,352	1,053,986	Linear Programming Problem	2004	
+37	bcsstk15	HB	3,948	3,948	117,816	Structural Problem	1985	
+1752	pcb3000	Meszaros	3,960	7,732	57,479	Linear Programming Problem	2004	
+1542	c-23	Schenk_IBMNA	3,969	3,969	31,079	Optimization Problem	2006	
+410	ex12	FIDAP	3,973	3,973	79,077	Computational Fluid Dynamics Problem	1994	
+2082	n2c6-b7	JGD_Homology	3,990	5,715	31,920	Combinatorial Problem	2008	
+1972	IG5-13	JGD_G5	3,994	4,731	91,209	Combinatorial Problem	2008	
+2827	ACTIVSg2000	TAMU_SmartGridCenter	4,000	4,000	28,505	Power Network Problem	2018	
+1640	tols4000	Bai	4,000	4,000	8,784	Computational Fluid Dynamics Problem	1991	
+467	poli	Grund	4,008	4,008	8,188	Economic Problem	1997	
+2360	M80PI_n1	Rommes	4,028	4,028	9,927	Eigenvalue/Model Reduction Problem	2010	
+2368	S80PI_n1	Rommes	4,028	4,028	9,927	Eigenvalue/Model Reduction Problem	2010	
+1955	Franz2	JGD_Franz	4,032	4,480	21,504	Combinatorial Problem	2008	
+1808	pgp2	Meszaros	4,034	13,254	22,474	Linear Programming Problem	2004	
+1760	rlfddd	Meszaros	4,050	61,521	264,627	Linear Programming Problem	2004	
+2467	delaunay_n12	DIMACS10	4,096	4,096	24,528	Undirected Graph	2011	
+1214	sts4098	Cannizzo	4,098	4,098	72,356	Structural Problem	2004	
+737	lhr04c	Mallya	4,101	4,101	82,682	Chemical Process Simulation Problem	1997	
+736	lhr04	Mallya	4,101	4,101	81,057	Chemical Process Simulation Problem	1994	
+1866	Chebyshev3	Muite	4,101	4,101	36,879	Structural Problem	2007	
+1543	c-24	Schenk_IBMNA	4,119	4,119	35,699	Optimization Problem	2006	
+839	rdist1	Zitney	4,134	4,134	94,408	Chemical Process Simulation Problem	1992	
+2372	S80PI_n	Rommes	4,182	4,182	10,261	Eigenvalue/Model Reduction Problem	2010	
+2364	M80PI_n	Rommes	4,182	4,182	10,261	Eigenvalue/Model Reduction Problem	2010	
+2023	ch7-6-b2	JGD_Homology	4,200	630	12,600	Combinatorial Problem	2008	
+2411	airfoil1	AG-Monien	4,253	4,253	24,578	2D/3D Problem	1998	
+1800	deter6	Meszaros	4,255	12,113	24,771	Linear Programming Problem	2004	
+1206	t2dal_a	Oberwolfach	4,257	4,257	37,465	Duplicate Model Reduction Problem	2004	
+1448	t2dal_bci	Oberwolfach	4,257	4,257	37,465	Model Reduction Problem	2004	
+1207	t2dal_e	Oberwolfach	4,257	4,257	4,257	Duplicate Model Reduction Problem	2004	
+1449	t2dal	Oberwolfach	4,257	4,257	37,465	Model Reduction Problem	2004	
+1818	large	Meszaros	4,282	8,617	20,635	Linear Programming Problem Sequence	2004	
+1658	rail4284	Mittelmann	4,284	1,096,894	11,284,032	Linear Programming Problem	2005	
+1545	c-26	Schenk_IBMNA	4,307	4,307	34,537	Optimization Problem	2006	
+2020	ch6-6-b4	JGD_Homology	4,320	5,400	21,600	Combinatorial Problem	2008	
+1868	viscoplastic1	Quaglino	4,326	4,326	61,166	Materials Problem	2007	
+2113	n4c5-b5	JGD_Homology	4,340	2,852	26,040	Combinatorial Problem	2008	
+808	struct4	Rothberg	4,350	4,350	237,798	Structural Problem	1997	
+647	lp_osa_30	LPnetlib	4,350	104,374	604,488	Linear Programming Problem	1990	
+2697	kineticBatchReactor_2	VDOL	4,361	4,361	44,840	Optimal Control Problem	2015	
+2680	freeFlyingRobot_8	VDOL	4,398	4,398	34,958	Optimal Control Problem	2015	
+1731	model10	Meszaros	4,400	16,819	150,372	Linear Programming Problem	2004	
+1811	stormg2-8	Meszaros	4,409	11,322	28,553	Linear Programming Problem	2004	
+50	bcsstk28	HB	4,410	4,410	219,024	Structural Problem	1984	
+1821	nsir	Meszaros	4,453	10,057	154,939	Linear Programming Problem Sequence	2004	
+1507	Kohonen	Pajek	4,470	4,470	12,731	Directed Graph	2002	
+1918	photogrammetry2	Luong	4,472	936	37,056	Computer Graphics/Vision Problem	2008	
+371	circuit_2	Bomhof	4,510	4,510	21,199	Circuit Simulation Problem	2000	
+360	msc04515	Boeing	4,515	4,515	97,707	Structural Problem	1995	
+398	cavity19	DRIVCAV	4,562	4,562	131,735	Subsequent Computational Fluid Dynamics Problem	1996	
+405	cavity26	DRIVCAV	4,562	4,562	138,040	Subsequent Computational Fluid Dynamics Problem	1996	
+404	cavity25	DRIVCAV	4,562	4,562	131,735	Subsequent Computational Fluid Dynamics Problem	1996	
+403	cavity24	DRIVCAV	4,562	4,562	138,040	Subsequent Computational Fluid Dynamics Problem	1996	
+402	cavity23	DRIVCAV	4,562	4,562	131,735	Subsequent Computational Fluid Dynamics Problem	1996	
+401	cavity22	DRIVCAV	4,562	4,562	138,040	Subsequent Computational Fluid Dynamics Problem	1996	
+400	cavity21	DRIVCAV	4,562	4,562	131,735	Subsequent Computational Fluid Dynamics Problem	1996	
+399	cavity20	DRIVCAV	4,562	4,562	138,040	Subsequent Computational Fluid Dynamics Problem	1996	
+397	cavity18	DRIVCAV	4,562	4,562	138,040	Subsequent Computational Fluid Dynamics Problem	1996	
+396	cavity17	DRIVCAV	4,562	4,562	131,735	Subsequent Computational Fluid Dynamics Problem	1996	
+395	cavity16	DRIVCAV	4,562	4,562	137,887	Computational Fluid Dynamics Problem Sequence	1996	
+2001	c8_mat11_I	JGD_Groebner	4,562	5,761	2,462,970	Combinatorial Problem	2008	
+2000	c8_mat11	JGD_Groebner	4,562	5,761	2,462,970	Combinatorial Problem	2008	
+1546	c-27	Schenk_IBMNA	4,563	4,563	30,927	Optimization Problem	2006	
+1547	c-28	Schenk_IBMNA	4,598	4,598	30,590	Optimization Problem	2006	
+1888	Maragal_5	NYPA	4,654	3,320	93,091	Least Squares Problem	2008	
+365	nasa4704	Boeing	4,704	4,704	104,756	Duplicate Structural Problem	1995	
+760	nasa4704	Nasa	4,704	4,704	104,756	Structural Problem	1995	
+2409	3elt	AG-Monien	4,720	4,720	27,444	2D/3D Problem	1998	
+810	shyy41	Shyy	4,720	4,720	20,042	Computational Fluid Dynamics Problem	1994	
+2059	mk10-b3	JGD_Homology	4,725	3,150	18,900	Combinatorial Problem	2008	
+2114	n4c5-b6	JGD_Homology	4,735	4,340	33,145	Combinatorial Problem	2008	
+1463	EPA	Pajek	4,772	4,772	8,965	Directed Graph	2006	
+2681	freeFlyingRobot_9	VDOL	4,778	4,778	39,964	Optimal Control Problem	2015	
+1624	mhd4800a	Bai	4,800	4,800	102,252	Electromagnetics Problem	1994	
+1625	mhd4800b	Bai	4,800	4,800	27,520	Electromagnetics Problem	1994	
+2531	uk	DIMACS10	4,824	4,824	13,674	Undirected Graph	2000	
+350	crystk01	Boeing	4,875	4,875	315,891	Materials Problem	1995	
+353	crystm01	Boeing	4,875	4,875	105,339	Materials Problem	1995	
+38	bcsstk16	HB	4,884	4,884	290,378	Structural Problem	1985	
+2656	LeGresley_4908	LeGresley	4,908	4,908	30,482	Power Network Problem	2013	
+156	gemat11	HB	4,929	4,929	33,108	Power Network Problem Sequence	1984	
+157	gemat12	HB	4,929	4,929	33,044	Subsequent Power Network Problem	1984	
+155	gemat1	HB	4,929	10,595	46,591	Power Network Problem	1984	
+2105	n3c6-b8	JGD_Homology	4,935	6,435	44,415	Combinatorial Problem	2008	
+2404	power	Newman	4,941	4,941	13,188	Undirected Graph	1998	
+1530	USpowerGrid	Pajek	4,941	4,941	13,188	Undirected Graph	2006	
+1769	seymourl	Meszaros	4,944	6,316	38,493	Linear Programming Problem	2004	
+2080	n2c6-b5	JGD_Homology	4,945	3,003	29,670	Combinatorial Problem	2008	
+540	add32	Hamm	4,960	4,960	19,848	Circuit Simulation Problem	1991	
+520	G56	Gset	5,000	5,000	24,996	Undirected Weighted Random Graph	1996	
+519	G55	Gset	5,000	5,000	24,996	Duplicate Undirected Random Graph	1996	
+322	olm5000	Bai	5,000	5,000	19,996	Computational Fluid Dynamics Problem	1994	
+523	G59	Gset	5,000	5,000	59,140	Undirected Weighted Random Graph	1996	
+522	G58	Gset	5,000	5,000	59,140	Duplicate Undirected Random Graph	1996	
+521	G57	Gset	5,000	5,000	20,000	Undirected Weighted Random Graph	1996	
+332	rdb5000	Bai	5,000	5,000	29,600	Computational Fluid Dynamics Problem	1994	
+2102	n3c6-b5	JGD_Homology	5,005	3,003	30,030	Combinatorial Problem	2008	
+244	sherman3	HB	5,005	5,005	20,033	Computational Fluid Dynamics Problem	1984	
+1380	fxm3_6	Andrianov	5,026	5,026	94,026	Optimization Problem	2006	
+1548	c-29	Schenk_IBMNA	5,033	5,033	43,731	Optimization Problem	2006	
+2026	ch7-6-b5	JGD_Homology	5,040	15,120	30,240	Combinatorial Problem	2008	
+1365	SiH4	PARSEC	5,041	5,041	171,903	Theoretical/Quantum Chemistry Problem	2005	
+1699	cq5	Meszaros	5,048	11,748	51,571	Linear Programming Problem	2004	
+2698	kineticBatchReactor_3	VDOL	5,082	5,082	53,219	Optimal Control Problem	2015	
+1748	p05	Meszaros	5,090	9,590	59,045	Linear Programming Problem	2004	
+1799	deter5	Meszaros	5,103	14,529	29,715	Linear Programming Problem	2004	
+2564	cz5108	CPM	5,108	5,108	51,412	2D/3D Problem	2012	
+1836	scsd8-2c	Meszaros	5,130	35,910	112,770	Linear Programming Problem Sequence	2004	
+1835	scsd8-2b	Meszaros	5,130	35,910	112,770	Linear Programming Problem Sequence	2004	
+336	rw5151	Bai	5,151	5,151	20,199	Statistical/Mathematical Problem	1978	
+1444	rail_5177	Oberwolfach	5,177	5,177	35,185	Model Reduction Problem	2002	
+1758	r05	Meszaros	5,190	9,690	104,145	Linear Programming Problem	2004	
+2682	freeFlyingRobot_10	VDOL	5,218	5,218	40,080	Optimal Control Problem	2015	
+2152	cat_ears_3_4	JGD_Margulies	5,226	13,271	39,592	Combinatorial Problem	2008	
+2158	flower_5_4	JGD_Margulies	5,226	14,721	43,942	Combinatorial Problem	2008	
+2297	ca-GrQc	SNAP	5,242	5,242	28,980	Undirected Graph	2003	
+22	bcspwr10	HB	5,300	5,300	21,842	Power Network Problem	1981	
+1536	hydr1c	Zitney	5,308	5,308	22,592	Chemical Process Simulation Problem Sequence	1994	
+837	hydr1	Zitney	5,308	5,308	22,680	Chemical Process Simulation Problem	1997	
+1549	c-30	Schenk_IBMNA	5,321	5,321	65,693	Optimization Problem	2006	
+1550	c-31	Schenk_IBMNA	5,339	5,339	78,571	Optimization Problem	2006	
+1907	g3rmt3m3	TKK	5,357	5,357	207,695	Structural Problem	2008	
+1611	s3rmt3m3	Cylshell	5,357	5,357	207,123	Structural Problem	1997	
+2232	TSOPF_RS_b162_c1	TSOPF	5,374	5,374	205,399	Power Network Problem	2009	
+2019	ch6-6-b3	JGD_Homology	5,400	2,400	21,600	Combinatorial Problem	2008	
+1691	bas1lp	Meszaros	5,411	9,825	587,775	Linear Programming Problem	2004	
+2683	freeFlyingRobot_11	VDOL	5,438	5,438	40,054	Optimal Control Problem	2015	
+1466	Erdos972	Pajek	5,488	5,488	14,170	Undirected Graph	2006	
+1609	s2rmt3m1	Cylshell	5,489	5,489	217,681	Structural Problem	1997	
+1610	s3rmt3m1	Cylshell	5,489	5,489	217,669	Structural Problem	1997	
+1605	s1rmq4m1	Cylshell	5,489	5,489	262,411	Structural Problem	1997	
+1608	s1rmt3m1	Cylshell	5,489	5,489	217,651	Structural Problem	1997	
+1606	s2rmq4m1	Cylshell	5,489	5,489	263,351	Structural Problem	1997	
+1607	s3rmq4m1	Cylshell	5,489	5,489	262,943	Structural Problem	1997	
+1795	deter1	Meszaros	5,527	15,737	32,187	Linear Programming Problem	2004	
+1908	t520	TKK	5,563	5,563	286,341	Structural Problem	2008	
+2684	freeFlyingRobot_12	VDOL	5,578	5,578	41,940	Optimal Control Problem	2015	
+2880	optdigits_10NN	ML_Graph	5,620	5,620	79,650	Undirected Weighted Graph	2020	
+2081	n2c6-b6	JGD_Homology	5,715	4,945	40,005	Combinatorial Problem	2008	
+2685	freeFlyingRobot_13	VDOL	5,718	5,718	43,994	Optimal Control Problem	2015	
+1366	SiNa	PARSEC	5,743	5,743	198,787	Theoretical/Quantum Chemistry Problem	2005	
+414	ex18	FIDAP	5,773	5,773	71,701	Computational Fluid Dynamics Problem	1994	
+1696	co5	Meszaros	5,774	12,325	57,993	Linear Programming Problem	2004	
+1468	Erdos982	Pajek	5,822	5,822	14,750	Undirected Graph	2006	
+1358	Na5	PARSEC	5,832	5,832	305,630	Theoretical/Quantum Chemistry Problem	2005	
+548	g7jac020sc	Hollinger	5,850	5,850	42,568	Economic Problem	2001	
+547	g7jac020	Hollinger	5,850	5,850	42,568	Economic Problem	2001	
+466	meg4	Grund	5,860	5,860	25,258	Circuit Simulation Problem	1997	
+2791	soc-sign-bitcoin-otc	SNAP	5,881	5,881	35,592	Directed Weighted Temporal Graph	2016	
+826	utm5940	TOKAMAK	5,940	5,940	83,842	Electromagnetics Problem	1996	
+1200	Hamrle2	Hamrle	5,952	5,952	22,162	Circuit Simulation Problem	2004	
+2686	freeFlyingRobot_14	VDOL	5,958	5,958	43,298	Optimal Control Problem	2015	
+378	mplate	Cote	5,962	5,962	142,190	Acoustics Problem	1997	
+2050	cis-n4c6-b3	JGD_Homology	5,970	1,330	23,880	Combinatorial Problem	2008	
+2126	n4c6-b3	JGD_Homology	5,970	1,330	23,880	Combinatorial Problem	2008	
+1551	c-32	Schenk_IBMNA	5,975	5,975	54,471	Optimization Problem	2006	
+1182	man_5976	HB	5,976	5,976	225,046	Structural Problem	1980	
+2422	ukerbe1	AG-Monien	5,981	5,981	15,704	2D/3D Problem	1998	
+1772	stat96v1	Meszaros	5,995	197,472	588,798	Linear Programming Problem	2005	
+1235	exdata_1	GHS_indef	6,001	6,001	2,269,500	Optimization Problem	2004	
+2820	Goodwin_023	Goodwin	6,005	6,005	182,168	Computational Fluid Dynamics	2018	
+755	barth4	Nasa	6,019	6,019	23,492	Duplicate Structural Problem	1995	
+866	barth4	Pothen	6,019	6,019	40,965	Structural Problem	2003	
+2687	freeFlyingRobot_15	VDOL	6,038	6,038	43,378	Optimal Control Problem	2015	
+619	lp_dfl001	LPnetlib	6,071	12,230	35,632	Linear Programming Problem	1990	
+2688	freeFlyingRobot_16	VDOL	6,078	6,078	44,006	Optimal Control Problem	2015	
+1796	deter2	Meszaros	6,095	17,313	35,731	Linear Programming Problem	2004	
+1470	Erdos992	Pajek	6,100	6,100	15,030	Undirected Graph	2006	
+902	shermanACd	Shen	6,136	6,136	53,329	2D/3D Problem	2003	
+2769	mycielskian13	Mycielski	6,143	6,143	1,227,742	Undirected Graph	2018	
+1805	fxm3_6	Meszaros	6,200	12,625	57,722	Linear Programming Problem	2004	
+923	Alemdar	Alemdar	6,245	6,245	42,581	2D/3D Problem	2003	
+2046	cis-n4c6-b13	JGD_Homology	6,300	25,605	88,200	Combinatorial Problem	2008	
+2122	n4c6-b13	JGD_Homology	6,300	25,605	88,200	Combinatorial Problem	2008	
+2311	p2p-Gnutella08	SNAP	6,301	6,301	20,777	Directed Graph	2002	
+818	raefsky5	Simon	6,316	6,316	167,178	Structural Problem	1993	
+1552	c-33	Schenk_IBMNA	6,317	6,317	56,123	Optimization Problem	2006	
+798	lp_nug15	Qaplib	6,330	22,275	94,950	Linear Programming Problem	1995	
+661	lp_qap15	LPnetlib	6,330	22,275	94,950	Linear Programming Problem		
+1949	TF15	JGD_Forest	6,334	7,742	80,057	Combinatorial Problem	2008	
+1801	deter7	Meszaros	6,375	18,153	37,131	Linear Programming Problem	2004	
+2103	n3c6-b6	JGD_Homology	6,435	5,005	45,045	Combinatorial Problem	2008	
+2104	n3c6-b7	JGD_Homology	6,435	6,435	51,480	Combinatorial Problem	2008	
+1554	c-35	Schenk_IBMNA	6,537	6,537	62,891	Optimization Problem	2006	
+2200	EX6	JGD_SPG	6,545	6,545	295,680	Combinatorial Problem	2008	
+2199	EX5	JGD_SPG	6,545	6,545	295,680	Combinatorial Problem	2008	
+1779	ulevimin	Meszaros	6,590	46,937	164,538	Linear Programming Problem	2004	
+1553	c-34	Schenk_IBMNA	6,611	6,611	64,333	Optimization Problem	2006	
+865	barth	Pothen	6,691	6,691	46,187	Structural Problem	2003	
+754	barth	Nasa	6,691	6,691	26,439	Duplicate Structural Problem	1995	
+1973	IG5-14	JGD_G5	6,735	7,621	173,337	Combinatorial Problem	2008	
+454	bayer03	Grund	6,747	6,747	29,195	Chemical Process Simulation Problem	1997	
+1534	Zewail	Pajek	6,752	6,752	54,233	Directed Multigraph	2002	
+568	jan99jac020	Hollinger	6,774	6,774	33,744	Economic Problem	2001	
+569	jan99jac020sc	Hollinger	6,774	6,774	33,744	Economic Problem	2001	
+1957	Franz4	JGD_Franz	6,784	5,252	46,528	Combinatorial Problem	2008	
+1185	rajat01	Rajat	6,833	6,833	43,250	Circuit Simulation Problem	2004	
+413	ex15	FIDAP	6,867	6,867	98,671	Computational Fluid Dynamics Problem	1994	
+1464	Erdos02	Pajek	6,927	6,927	16,944	Undirected Graph	2006	
+2062	mk11-b2	JGD_Homology	6,930	990	20,790	Combinatorial Problem	2008	
+1735	nemsemm2	Meszaros	6,943	48,878	182,012	Linear Programming Problem	2004	
+529	G64	Gset	7,000	7,000	82,918	Undirected Weighted Random Graph	1996	
+528	G63	Gset	7,000	7,000	82,918	Duplicate Undirected Random Graph	1996	
+527	G62	Gset	7,000	7,000	28,000	Undirected Weighted Random Graph	1996	
+526	G61	Gset	7,000	7,000	34,296	Undirected Weighted Random Graph	1996	
+525	G60	Gset	7,000	7,000	34,296	Duplicate Undirected Random Graph	1996	
+1739	nl	Meszaros	7,039	15,325	47,035	Linear Programming Problem	2004	
+934	cell1	Lucifora	7,055	7,055	30,082	Directed Weighted Graph	2003	
+935	cell2	Lucifora	7,055	7,055	30,082	Directed Weighted Graph	2003	
+2707	lowThrust_3	VDOL	7,064	7,064	80,645	Optimal Control Problem	2015	
+1331	Muu	MathWorks	7,102	7,102	170,134	Structural Problem	2006	
+1330	Kuu	MathWorks	7,102	7,102	340,200	Structural Problem	2006	
+2699	kineticBatchReactor_4	VDOL	7,105	7,105	74,869	Optimal Control Problem	2015	
+2350	bips98_606	Rommes	7,135	7,135	34,738	Eigenvalue/Model Reduction Problem	2010	
+1738	nemswrld	Meszaros	7,138	28,550	192,283	Linear Programming Problem	2004	
+2245	TSOPF_RS_b9_c6	TSOPF	7,224	7,224	54,082	Power Network Problem	2009	
+1891	eurqsa	Marini	7,245	7,245	46,142	Economic Problem	2008	
+446	goodwin	Goodwin	7,320	7,320	324,772	Computational Fluid Dynamics Problem	1995	
+738	lhr07	Mallya	7,337	7,337	154,660	Chemical Process Simulation Problem	1994	
+739	lhr07c	Mallya	7,337	7,337	156,508	Chemical Process Simulation Problem	1997	
+1500	geom	Pajek	7,343	7,343	23,796	Undirected Weighted Graph	2002	
+2028	ch7-7-b2	JGD_Homology	7,350	882	22,050	Combinatorial Problem	2008	
+2383	EternityII_A	Dattorro	7,362	150,638	782,087	Optimization Problem	2011	
+1958	Franz5	JGD_Franz	7,382	2,882	44,056	Combinatorial Problem	2008	
+2253	176bit	Priebel	7,441	7,431	82,270	Combinatorial Problem	2009	
+1555	c-36	Schenk_IBMNA	7,479	7,479	65,941	Optimization Problem	2006	
+917	fd12	Hohn	7,500	7,500	28,462	Materials Problem	2003	
+920	sinc12	Hohn	7,500	7,500	283,992	Materials Problem	2003	
+1395	fp	MKS	7,548	7,548	834,222	Electromagnetics Problem	2006	
+1959	Franz6	JGD_Franz	7,576	3,016	45,456	Combinatorial Problem	2008	
+1197	rajat13	Rajat	7,598	7,598	48,762	Circuit Simulation Problem	2004	
+1187	rajat03	Rajat	7,602	7,602	32,653	Circuit Simulation Problem	2004	
+2700	kineticBatchReactor_5	VDOL	7,641	7,641	80,767	Optimal Control Problem	2015	
+1797	deter3	Meszaros	7,647	21,777	44,547	Linear Programming Problem	2004	
+2320	as-735	SNAP	7,716	7,716	26,467	Undirected Graph Sequence	2000	
+435	ex40	FIDAP	7,740	7,740	456,188	Computational Fluid Dynamics Problem	1994	
+2701	kineticBatchReactor_6	VDOL	7,773	7,773	82,500	Optimal Control Problem	2015	
+871	commanche_dual	Pothen	7,920	7,920	31,680	Structural Problem	2003	
+2702	kineticBatchReactor_7	VDOL	7,968	7,968	84,508	Optimal Control Problem	2015	
+2335	GT01R	Fluorem	7,980	7,980	430,909	Computational Fluid Dynamics Problem	2010	
+530	G65	Gset	8,000	8,000	32,000	Undirected Weighted Random Graph	1996	
+343	bcsstk38	Boeing	8,032	8,032	355,460	Structural Problem	1995	
+348	bcsstm38	Boeing	8,032	8,032	10,485	Structural Problem	1995	
+2412	airfoil1_dual	AG-Monien	8,034	8,034	23,626	2D/3D Problem	1998	
+2703	kineticBatchReactor_8	VDOL	8,052	8,052	85,194	Optimal Control Problem	2015	
+1761	rlfdual	Meszaros	8,052	74,970	282,031	Linear Programming Problem	2004	
+1170	Pd	MathWorks	8,081	8,081	13,036	Counter Example Problem	2002	
+1171	Pd_rhs	MathWorks	8,081	12,406	6,323	Counter Example Problem	2002	
+2312	p2p-Gnutella09	SNAP	8,114	8,114	26,013	Directed Graph	2002	
+2704	kineticBatchReactor_9	VDOL	8,115	8,115	86,183	Optimal Control Problem	2015	
+1557	c-38	Schenk_IBMNA	8,127	8,127	77,689	Optimization Problem	2006	
+2539	TSC_OPF_1047	IPSO	8,140	8,140	2,012,833	Power Network Problem	2011	
+792	aft02	Okunbor	8,184	8,184	127,762	Acoustics Problem	2001	
+312	dw4096	Bai	8,192	8,192	41,746	Electromagnetics Problem	1993	
+1615	dw8192	Bai	8,192	8,192	41,746	Electromagnetics Problem	1993	
+2468	delaunay_n13	DIMACS10	8,192	8,192	49,094	Undirected Graph	2011	
+1556	c-37	Schenk_IBMNA	8,204	8,204	74,676	Optimization Problem	2006	
+791	aft01	Okunbor	8,205	8,205	125,567	Acoustics Problem	2001	
+1348	benzene	PARSEC	8,219	8,219	242,669	Theoretical/Quantum Chemistry Problem	2005	
+2814	windtunnel_evap2d	Grueninger	8,256	8,256	109,368	Computational Fluid Dynamics Problem	2017	
+2288	wiki-Vote	SNAP	8,297	8,297	103,689	Directed Graph	2008	
+2398	hep-th	Newman	8,361	8,361	31,502	Undirected Weighted Graph	2001	
+1471	EVA	Pajek	8,497	8,497	6,726	Directed Graph	2002	
+1837	scsd8-2r	Meszaros	8,650	60,550	190,210	Linear Programming Problem Sequence	2004	
+2310	p2p-Gnutella06	SNAP	8,717	8,717	31,525	Directed Graph	2002	
+55	bcsstk33	HB	8,738	8,738	591,904	Structural Problem	1986	
+1404	Kaufhold	MathWorks	8,765	8,765	42,471	Counter Example Problem	2006	
+1508	Lederberg	Pajek	8,843	8,843	41,601	Directed Multigraph	2002	
+2309	p2p-Gnutella05	SNAP	8,846	8,846	31,839	Directed Graph	2002	
+1985	GL7d12	JGD_GL7d	8,899	1,019	37,519	Combinatorial Problem	2008	
+612	lp_cre_d	LPnetlib	8,926	73,948	246,614	Linear Programming Problem	1990	
+531	G66	Gset	9,000	9,000	36,000	Undirected Weighted Random Graph	1996	
+936	nd3k	ND	9,000	9,000	3,279,690	2D/3D Problem	2003	
+2410	3elt_dual	AG-Monien	9,000	9,000	26,556	2D/3D Problem	1998	
+448	graham1	Graham	9,035	9,035	335,472	Computational Fluid Dynamics Problem	1998	
+581	mark3jac020sc	Hollinger	9,129	9,129	52,883	Economic Problem	2001	
+580	mark3jac020	Hollinger	9,129	9,129	52,883	Economic Problem	2001	
+2871	indianpines_10NN	ML_Graph	9,144	9,144	124,656	Undirected Weighted Graph	2020	
+2638	vsp_data_and_seymourl	DIMACS10	9,167	9,167	111,732	Random Unweighted Graph	2011	
+1558	c-39	Schenk_IBMNA	9,271	9,271	116,587	Optimization Problem	2006	
+1700	cq9	Meszaros	9,278	21,534	96,653	Linear Programming Problem	2004	
+2065	mk11-b4b	JGD_Homology	9,450	17,325	47,250	Combinatorial Problem	2008	
+770	nemeth06	Nemeth	9,506	9,506	394,808	Subsequent Theoretical/Quantum Chemistry Problem	1999	
+780	nemeth16	Nemeth	9,506	9,506	587,012	Subsequent Theoretical/Quantum Chemistry Problem	1999	
+781	nemeth17	Nemeth	9,506	9,506	629,620	Subsequent Theoretical/Quantum Chemistry Problem	1999	
+782	nemeth18	Nemeth	9,506	9,506	695,234	Subsequent Theoretical/Quantum Chemistry Problem	1999	
+783	nemeth19	Nemeth	9,506	9,506	818,302	Subsequent Theoretical/Quantum Chemistry Problem	1999	
+784	nemeth20	Nemeth	9,506	9,506	971,870	Subsequent Theoretical/Quantum Chemistry Problem	1999	
+785	nemeth21	Nemeth	9,506	9,506	1,173,746	Subsequent Theoretical/Quantum Chemistry Problem	1999	
+786	nemeth22	Nemeth	9,506	9,506	1,358,832	Subsequent Theoretical/Quantum Chemistry Problem	1999	
+787	nemeth23	Nemeth	9,506	9,506	1,506,810	Subsequent Theoretical/Quantum Chemistry Problem	1999	
+788	nemeth24	Nemeth	9,506	9,506	1,506,550	Subsequent Theoretical/Quantum Chemistry Problem	1999	
+789	nemeth25	Nemeth	9,506	9,506	1,511,758	Subsequent Theoretical/Quantum Chemistry Problem	1999	
+790	nemeth26	Nemeth	9,506	9,506	1,511,760	Subsequent Theoretical/Quantum Chemistry Problem	1999	
+778	nemeth14	Nemeth	9,506	9,506	496,144	Subsequent Theoretical/Quantum Chemistry Problem	1999	
+779	nemeth15	Nemeth	9,506	9,506	539,802	Subsequent Theoretical/Quantum Chemistry Problem	1999	
+765	nemeth01	Nemeth	9,506	9,506	725,054	Theoretical/Quantum Chemistry Problem Sequence	1999	
+766	nemeth02	Nemeth	9,506	9,506	394,808	Subsequent Theoretical/Quantum Chemistry Problem	1999	
+767	nemeth03	Nemeth	9,506	9,506	394,808	Subsequent Theoretical/Quantum Chemistry Problem	1999	
+768	nemeth04	Nemeth	9,506	9,506	394,808	Subsequent Theoretical/Quantum Chemistry Problem	1999	
+769	nemeth05	Nemeth	9,506	9,506	394,808	Subsequent Theoretical/Quantum Chemistry Problem	1999	
+771	nemeth07	Nemeth	9,506	9,506	394,812	Subsequent Theoretical/Quantum Chemistry Problem	1999	
+772	nemeth08	Nemeth	9,506	9,506	394,816	Subsequent Theoretical/Quantum Chemistry Problem	1999	
+773	nemeth09	Nemeth	9,506	9,506	395,506	Subsequent Theoretical/Quantum Chemistry Problem	1999	
+774	nemeth10	Nemeth	9,506	9,506	401,448	Subsequent Theoretical/Quantum Chemistry Problem	1999	
+775	nemeth11	Nemeth	9,506	9,506	408,264	Subsequent Theoretical/Quantum Chemistry Problem	1999	
+776	nemeth12	Nemeth	9,506	9,506	446,818	Subsequent Theoretical/Quantum Chemistry Problem	1999	
+777	nemeth13	Nemeth	9,506	9,506	474,472	Subsequent Theoretical/Quantum Chemistry Problem	1999	
+1389	net25	Andrianov	9,520	9,520	401,200	Optimization Problem	2006	
+376	coater2	Brethour	9,540	9,540	207,308	Computational Fluid Dynamics Problem	1997	
+887	fv1	Norris	9,604	9,604	85,264	2D/3D Problem	2003	
+610	lp_cre_b	LPnetlib	9,648	77,137	260,785	Linear Programming Problem	1990	
+1456	California	Pajek	9,664	9,664	16,150	Directed Graph	2006	
+1432	flowmeter0	Oberwolfach	9,669	9,669	67,391	Model Reduction Problem	2004	
+1433	flowmeter5	Oberwolfach	9,669	9,669	67,391	Model Reduction Problem	2004	
+1753	pf2177	Meszaros	9,728	10,178	30,984	Linear Programming Problem	2004	
+1394	pf2177	Andrianov	9,728	9,728	725,144	Optimization Problem	2006	
+2351	bips98_1142	Rommes	9,735	9,735	40,983	Eigenvalue/Model Reduction Problem	2010	
+1827	scagr7-2b	Meszaros	9,743	13,847	35,885	Linear Programming Problem Sequence	2004	
+1560	c-41	Schenk_IBMNA	9,769	9,769	101,635	Optimization Problem	2006	
+2540	TSC_OPF_300	IPSO	9,774	9,774	820,783	Power Network Problem	2011	
+2424	whitaker3	AG-Monien	9,800	9,800	57,978	2D/3D Problem	1998	
+1916	t2d_q4	TKK	9,801	9,801	87,025	Structural Problem Sequence	2008	
+888	fv2	Norris	9,801	9,801	87,025	2D/3D Problem	2003	
+1917	t2d_q9	TKK	9,801	9,801	87,025	Structural Problem Sequence	2008	
+889	fv3	Norris	9,801	9,801	87,025	2D/3D Problem	2003	
+2299	ca-HepTh	SNAP	9,877	9,877	51,971	Undirected Graph	2003	
+650	lp_pds_06	LPnetlib	9,881	29,351	63,220	Linear Programming Problem	1990	
+1841	wb-cs-stanford	Gleich	9,914	9,914	36,854	Directed Graph	2001	
+1559	c-40	Schenk_IBMNA	9,941	9,941	81,501	Optimization Problem	2006	
+2873	JapaneseVowelsSmall_10NN	ML_Graph	9,961	9,961	131,144	Undirected Weighted Graph	2020	
+532	G67	Gset	10,000	10,000	40,000	Undirected Weighted Random Graph	1996	
+2868	Fashion_MNIST_norm_10NN	ML_Graph	10,000	10,000	158,304	Undirected Weighted Graph	2020	
+1612	cryg10000	Bai	10,000	10,000	49,699	Materials Problem	1996	
+2875	kmnist_norm_10NN	ML_Graph	10,000	10,000	156,932	Undirected Weighted Graph	2020	
+2878	mnist_test_norm_10NN	ML_Graph	10,000	10,000	145,600	Undirected Weighted Graph	2020

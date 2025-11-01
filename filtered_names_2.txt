@@ -1,0 +1,112 @@
+664	lp_sc105	LPnetlib	105	163	340	Linear Programming Problem	1989	
+1927	bibd_15_3	JGD_BIBD	105	455	1,365	Combinatorial Problem	2008	
+2144	Trec10	JGD_Kocay	106	478	8,612	Combinatorial Problem	2008	
+1711	gams10a	Meszaros	114	171	407	Linear Programming Problem	2004	
+1675	gams10am	Meszaros	114	171	407	Linear Programming Problem	2004	
+1782	zed	Meszaros	116	142	666	Linear Programming Problem	2004	
+695	lp_stocfor1	LPnetlib	117	165	501	Linear Programming Problem	1988	
+681	lp_share1b	LPnetlib	117	253	1,179	Linear Programming Problem		
+2016	ch5-5-b4	JGD_Homology	120	600	600	Combinatorial Problem	2008	
+1929	bibd_16_8	JGD_BIBD	120	12,870	360,360	Combinatorial Problem	2008	
+2094	n3c5-b6	JGD_Homology	120	210	840	Combinatorial Problem	2008	
+2107	n4c5-b10	JGD_Homology	120	630	1,320	Combinatorial Problem	2008	
+2155	flower_4_1	JGD_Margulies	121	129	386	Combinatorial Problem	2008	
+1686	air03	Meszaros	124	10,757	91,028	Linear Programming Problem	2004	
+669	lp_scagr7	LPnetlib	129	185	465	Linear Programming Problem	1981	
+1744	p0201	Meszaros	133	334	2,056	Linear Programming Problem	2004	
+1702	crew1	Meszaros	135	6,469	46,950	Linear Programming Problem	2004	
+1931	bibd_17_4b	JGD_BIBD	136	2,380	14,280	Combinatorial Problem	2008	
+1932	bibd_17_4	JGD_BIBD	136	2,380	14,280	Combinatorial Problem	2008	
+1930	bibd_17_3	JGD_BIBD	136	680	2,040	Combinatorial Problem	2008	
+1933	bibd_17_8	JGD_BIBD	136	24,310	680,680	Combinatorial Problem	2008	
+634	lp_grow7	LPnetlib	140	301	2,612	Linear Programming Problem	1983	
+676	lp_scsd6	LPnetlib	147	1,350	4,316	Linear Programming Problem	1981	
+1934	bibd_18_9	JGD_BIBD	153	48,620	1,750,320	Combinatorial Problem	2008	
+641	lp_lotfi	LPnetlib	153	366	1,136	Linear Programming Problem	1989	
+1967	IG5-8	JGD_G5	156	292	1,711	Combinatorial Problem	2008	
+1780	us04	Meszaros	163	28,016	297,538	Linear Programming Problem	2004	
+1982	GL6_D_10	JGD_GL6	163	341	2,053	Combinatorial Problem	2008	
+2193	D_11	JGD_SL6	169	461	2,952	Combinatorial Problem	2008	
+1935	bibd_19_9	JGD_BIBD	171	92,378	3,325,608	Combinatorial Problem	2008	
+602	lp_beaconfd	LPnetlib	173	295	3,408	Linear Programming Problem		
+635	lp_israel	LPnetlib	174	316	2,443	Linear Programming Problem		
+1747	p0548	Meszaros	176	724	1,887	Linear Programming Problem	2004	
+1936	bibd_20_10	JGD_BIBD	190	184,756	8,314,020	Combinatorial Problem	2008	
+713	lpi_ex73a	LPnetlib	193	211	457	Linear Programming Problem	1992	
+712	lpi_ex72a	LPnetlib	197	215	467	Linear Programming Problem	1992	
+700	lp_vtp_base	LPnetlib	198	346	1,051	Linear Programming Problem		
+665	lp_sc205	LPnetlib	205	317	665	Linear Programming Problem		
+275	wm1	HB	207	277	2,909	Economic Problem	1982	
+276	wm2	HB	207	260	2,942	Economic Problem	1982	
+277	wm3	HB	207	260	2,948	Economic Problem	1982	
+2093	n3c5-b5	JGD_Homology	210	252	1,260	Combinatorial Problem	2008	
+793	lp_nug05	Qaplib	210	225	1,050	Linear Programming Problem	1995	
+1945	TF11	JGD_Forest	216	236	1,607	Combinatorial Problem	2008	
+607	lp_brandy	LPnetlib	220	303	2,202	Linear Programming Problem		
+620	lp_e226	LPnetlib	223	472	2,768	Linear Programming Problem		
+711	lpi_cplex2	LPnetlib	224	378	1,215	Linear Programming Problem	1993	
+707	lpi_box1	LPnetlib	231	261	651	Linear Programming Problem	1992	
+1937	bibd_22_8	JGD_BIBD	231	319,770	8,953,560	Combinatorial Problem	2008	
+606	lp_bore3d	LPnetlib	233	334	1,448	Linear Programming Problem		
+2145	Trec11	JGD_Kocay	235	1,138	35,705	Combinatorial Problem	2008	
+1745	p0282	Meszaros	241	523	2,207	Linear Programming Problem	2004	
+1717	l9	Meszaros	244	1,483	4,659	Linear Programming Problem	2004	
+701	lp_wood1p	LPnetlib	244	2,595	70,216	Linear Programming Problem	1989	
+1746	p0291	Meszaros	252	543	2,283	Linear Programming Problem	2004	
+1765	rosen7	Meszaros	264	776	8,034	Linear Programming Problem	2004	
+608	lp_capri	LPnetlib	271	482	1,896	Linear Programming Problem		
+709	lpi_chemcom	LPnetlib	288	744	1,590	Linear Programming Problem	1993	
+678	lp_sctap1	LPnetlib	300	660	1,872	Linear Programming Problem	1981	
+632	lp_grow15	LPnetlib	300	645	5,620	Linear Programming Problem	1983	
+2007	robot24c1_mat5_J	JGD_Groebner	302	404	15,118	Combinatorial Problem	2008	
+601	lp_bandm	LPnetlib	305	472	2,494	Linear Programming Problem		
+1999	GL7d26	JGD_GL7d	305	2,798	7,412	Combinatorial Problem	2008	
+2084	n2c6-b9	JGD_Homology	306	1,470	3,060	Combinatorial Problem	2008	
+724	lpi_mondou2	LPnetlib	312	604	1,208	Linear Programming Problem		
+1520	Sandi_sandi	Pajek	314	360	613	Bipartite Graph	1999	
+728	lpi_reactor	LPnetlib	318	808	2,591	Linear Programming Problem	1993	
+727	lpi_qual	LPnetlib	323	464	1,646	Linear Programming Problem	1993	
+729	lpi_refinery	LPnetlib	323	464	1,626	Linear Programming Problem	1993	
+730	lpi_vol1	LPnetlib	323	464	1,646	Linear Programming Problem	1993	
+670	lp_scfxm1	LPnetlib	330	600	2,732	Linear Programming Problem	1981	
+699	lp_tuff	LPnetlib	333	628	4,561	Linear Programming Problem	1989	
+1732	nemsafm	Meszaros	334	2,348	2,826	Linear Programming Problem	2004	
+1981	GL6_D_9	JGD_GL6	340	545	4,349	Combinatorial Problem	2008	
+1968	IG5-9	JGD_G5	342	540	4,570	Combinatorial Problem	2008	
+703	lpi_bgdbg1	LPnetlib	348	629	1,662	Linear Programming Problem	1993	
+1712	gams30a	Meszaros	354	531	1,287	Linear Programming Problem	2004	
+1676	gams30am	Meszaros	354	531	1,287	Linear Programming Problem	2004	
+691	lp_stair	LPnetlib	356	614	4,003	Linear Programming Problem		
+692	lp_standata	LPnetlib	359	1,274	3,230	Linear Programming Problem		
+725	lpi_pang	LPnetlib	361	741	2,933	Linear Programming Problem	1993	
+693	lp_standgub	LPnetlib	361	1,383	3,338	Linear Programming Problem	1989	
+1722	model1	Meszaros	362	798	3,028	Linear Programming Problem	2004	
+794	lp_nug06	Qaplib	372	486	2,232	Linear Programming Problem	1995	
+1723	model2	Meszaros	379	1,321	7,607	Linear Programming Problem	2004	
+673	lp_scorpion	LPnetlib	388	466	1,534	Linear Programming Problem	1981	
+677	lp_scsd8	LPnetlib	397	2,750	8,584	Linear Programming Problem	1981	
+1694	cari	Meszaros	400	1,200	152,800	Linear Programming Problem	2004	
+621	lp_etamacro	LPnetlib	400	816	2,537	Linear Programming Problem		
+704	lpi_bgetam	LPnetlib	400	816	2,537	Linear Programming Problem	1993	
+684	lp_ship04l	LPnetlib	402	2,166	6,380	Linear Programming Problem		
+685	lp_ship04s	LPnetlib	402	1,506	4,400	Linear Programming Problem		
+726	lpi_pilot4i	LPnetlib	410	1,123	5,264	Linear Programming Problem	1993	
+655	lp_pilot4	LPnetlib	410	1,123	5,264	Linear Programming Problem		
+616	lp_d6cube	LPnetlib	415	6,184	37,704	Linear Programming Problem	1993	
+1688	air05	Meszaros	426	7,195	52,121	Linear Programming Problem	2004	
+1682	aa4	Meszaros	426	7,195	52,121	Linear Programming Problem	2004	
+633	lp_grow22	LPnetlib	440	946	8,252	Linear Programming Problem	1983	
+617	lp_degen2	LPnetlib	444	757	4,201	Linear Programming Problem	1989	
+1678	gas11	Meszaros	459	862	2,166	Linear Programming Problem	2004	
+2192	D_10	JGD_SL6	460	816	7,614	Combinatorial Problem	2008	
+1820	nsic	Meszaros	465	897	3,449	Linear Programming Problem Sequence	2004	
+694	lp_standmps	LPnetlib	467	1,274	3,878	Linear Programming Problem	1989	
+668	lp_scagr25	LPnetlib	471	671	1,725	Linear Programming Problem	1981	
+722	lpi_klein2	LPnetlib	477	531	5,062	Linear Programming Problem		
+1946	TF12	JGD_Forest	488	552	4,231	Combinatorial Problem	2008	
+598	lp_agg	LPnetlib	488	615	2,862	Linear Programming Problem	1988	
+674	lp_scrs8	LPnetlib	490	1,275	3,288	Linear Programming Problem	1981	
+623	lp_finnis	LPnetlib	497	1,064	2,760	Linear Programming Problem	1989	
+78	beacxc	HB	497	506	50,409	Economic Problem	1982	
+79	beaflw	HB	497	507	53,403	Economic Problem	1982	
+80	beause	HB	497	507	44,551	Economic Problem	1982	

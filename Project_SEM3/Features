@@ -1,0 +1,15 @@
+1. Number of Rows (M) 
+2. Number of Columns (N) 
+3. number of non-zeros (NNZ) 
+4. average number of Non - Zero per row (aver RD)
+5. maximum number of NZ per row (max RD) 
+6. minimum number of NZ per row (min RD) 
+7. the deviation of number of NZ per row (dev RD ) 
+8. average number of NZ per column (aver CD) 
+9. maximum number of NZ per column (max CD)
+10. minimum number of NZ per column (min CD) 
+11. the deviation of number of NZ per column (dev CD) 
+12. average difference between NNZs of adjacent rows (row bounce)
+13. average difference between NNZs of adjacent columns (col bounce) -
+14. density of NNZ in the matrix (d) - no of non-zeroes/M*N
+
